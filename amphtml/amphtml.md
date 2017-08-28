@@ -11,7 +11,7 @@ im **Suchfeld** „amphtml“ eingeben und die Taste **Enter** drücken
 * 
 im Suchergebnis rechts oben in der Ecke das **Symbol** zum **Installieren** klicken sowie den Anweisungen folgen
 
-![](amphtml/installation-contao-3.png)
+![](installation-contao-3.png)
 
 ODER
 
