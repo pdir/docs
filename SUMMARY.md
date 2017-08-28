@@ -1,6 +1,6 @@
 # Summary
 
 * [AMPHTML](amphtml/amphtml.md)
-   * Installation
-   * Einrichtung
+   * [Installation](amphtml/installation.md)
+   * [Einrichtung](amphtml/einrichtung.md)
 
