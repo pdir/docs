@@ -31,7 +31,7 @@ Präsentieren Sie Ihre Fahrzeuge auf der eigenen Webseite.
 
 Liefern Sie Ihre Inhalte für mobile Endgeräte noch schneller aus.
 
-[Dokumentation](amphtml.md)
+[Dokumentation](amphtml/amphtml.html)
 
 [Projektwebseite](https://pdir.de/news/amphtml-beschleunigte-mobile-seiten-fuer-contao.html)
 
