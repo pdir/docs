@@ -1,5 +1,5 @@
 # Summary
 
 * [AMPHTML](amphtml/amphtml.md)
-   * Installation
+   * [Installation](amphtml/installation.md)
 
