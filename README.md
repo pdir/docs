@@ -20,7 +20,7 @@ Makler Modul für Contao - Präsentieren Sie alle Miet- und Kaufimmobilien aus I
 
 Präsentieren Sie Ihre Fahrzeuge auf der eigenen Webseite.
 
-[Dokumentation](https://docs.pdir.de/amphtml.html)
+[Dokumentation]()
 
 [Projektwebseite](https://pdir.de/mobile-de-integration-fuer-contao-cms.html)
 
@@ -31,7 +31,7 @@ Präsentieren Sie Ihre Fahrzeuge auf der eigenen Webseite.
 
 Liefern Sie Ihre Inhalte für mobile Endgeräte noch schneller aus.
 
-[Dokumentation](https://docs.pdir.de/mobilede.html)
+[Dokumentation](amphtml.md)
 
 [Projektwebseite](https://pdir.de/news/amphtml-beschleunigte-mobile-seiten-fuer-contao.html)
 
