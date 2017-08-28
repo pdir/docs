@@ -1,5 +1,5 @@
 # Summary
 
-* AMPHTML
+* [AMPHTML](amphtml.md)
    * Installation
 
