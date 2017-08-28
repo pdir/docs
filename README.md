@@ -18,7 +18,7 @@ Makler Modul für Contao - Präsentieren Sie alle Miet- und Kaufimmobilien aus I
 
 ![](img/mobilemodul_logo_267x45px.png)
 
-Präsentieren Sie Ihre Fahrzeuge auf der eigene Webseite.
+Präsentieren Sie Ihre Fahrzeuge auf der eigenen Webseite.
 
 [Dokumentation](https://docs.pdir.de/amphtml.html)
 
