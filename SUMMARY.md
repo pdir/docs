@@ -2,4 +2,5 @@
 
 * [AMPHTML](amphtml.md)
    * Installation
+   * Einrichtung
 
