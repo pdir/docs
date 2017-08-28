@@ -1,4 +1,4 @@
 # Summary
 
-* AMPHTML
+* [AMPHTML](amphtml.md)
 
