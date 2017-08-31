@@ -7,16 +7,16 @@ in das Backend von Contao einloggen
 * 
 im Menü Backend-Module unter System den Punkt Erweiterungskatalog wählen
 * 
-im **Suchfeld** „amphtml“ eingeben und die Taste **Enter** drücken
+im **Suchfeld** „pdirMobileDe“ eingeben und die Taste **Enter** drücken
 * 
 im Suchergebnis rechts oben in der Ecke das **Symbol** zum **Installieren** klicken sowie den Anweisungen folgen
 
-
+![](mobilede_installation_contao3.png)
 
 ODER
 
 * 
-Suchergebnis „amphtml“ auswählen und Button **Installieren** klicken
+Suchergebnis „pdirMobileDe“ auswählen und Button **Installieren** klicken
 
 ## Installation unter Contao 4
 
@@ -27,8 +27,10 @@ Contao-Manager aufrufen und anmelden
 * 
 **Pakete installieren** auswählen
 * 
-im **Suchfeld** "amphtml" eingeben
+im **Suchfeld** "mobilede-bundle" eingeben
 * 
 auf **Prüfen & Installieren** klicken und **Änderungen anwenden**
 * 
 Install-Tool aufrufen und Datenbank aktualisieren
+
+![](mobilede_installation_contao4.png)
