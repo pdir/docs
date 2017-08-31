@@ -8,5 +8,5 @@
 * [mobile.de Inserate](mobilede/mobilede_inserate.md)
    * [Installation](mobilede/installation.md)
    * [Einrichtung](mobilede/einrichtung.md)
-   * Probleme melden
+   * [Probleme melden](mobilede/probleme_melden.md)
 
