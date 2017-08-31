@@ -1,5 +1,7 @@
 # Dokumentation
 
+![](../img/mobilemodul_logo_267x45px.png)
+
 ## Mobile.de Inserate für Contao
 
 Mit der Mobile.de Erweiterung können Sie ihren Fahrzeugbestand auf der eigenen Seite darstellen.
