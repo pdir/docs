@@ -12,7 +12,7 @@ Makler Modul für Contao - Präsentieren Sie alle Miet- und Kaufimmobilien aus I
 
 [Dokumentation](https://docs.maklermodul.de/)
 
-
+[Maklermodul Demo](http://www.maklermodul.de/immoliste.html)
 
 [Projektwebseite](https://www.maklermodul.de/)
 
