@@ -4,6 +4,6 @@
 * [AMPHTML](amphtml/amphtml.md)
    * [Installation](amphtml/installation.md)
    * [Einrichtung](amphtml/einrichtung.md)
-* mobile.de Inserate
+* [mobile.de Inserate](mobilede_inserate.md)
    * Installation
 
