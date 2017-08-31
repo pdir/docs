@@ -16,11 +16,16 @@ Erweiterung [pdir/mobilede-bundle] für Contao 4.x
 
 Alle Inserate werden direkt aus der mobile.de* API ausgelesen und in der Erweiterung übersichtlich dargestellt. Umfangreiche Filter- & Sortierungsfunktionen runden die Listenansicht ab. Die Detailansicht enthält alle Fahrzeuginformationen und einen schlanken Produkt-Slider. Auf Wunsch können auch zusätzliche Funktionen integriert werden. Fragen Sie uns an.
 
-Ihre Vorteile
+**Ihre Vorteile**
 
-Listenansicht mit umfangreichen Filter- und Sortierungsfunktionen
+* Listenansicht mit umfangreichen Filter- und Sortierungsfunktionen
+* 
 Detailansicht mit Contao Bildslider
+* 
 Empfohlenes Objekt
+* 
 Automatischer Abgleich der Fahrzeuge über mobile.de* API
+* 
 Templates und Design können auf gewohnte "Contao Art" angepasst werden
+* 
 garantierte Unterstützung der letzten bzw. aktuellen Contao LTS Version
