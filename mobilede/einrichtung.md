@@ -23,3 +23,7 @@ Sobald Ihre Lizenz freigegeben ist, können Sie im **Mobile.de Setup** unter dem
 * 
 Anschließend müssen Sie in den Frontend-Modulen der Listen- und Detailansicht in den Feldern *Mobile.de API Benutzer*, *Mobile.de API Passwort* und *Mobile.de API Kundennummer* ihre API-Daten eintragen (in beiden Modulen erforderlich).
 
+## Aktualisierung der Erweiterung
+
+* 
+Sobald Sie die Erweiterung über die **Erweiterungsverwaltung** aktualisieren, wird wieder der Demo-Modus aktiv. Sie müssen anschließend im **Mobile.de Setup** erneut die **Vollversion herunterladen**, womit auch überprüft wird, ob das Abonnement noch aktiv ist.
