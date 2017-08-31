@@ -29,3 +29,5 @@ Automatischer Abgleich der Fahrzeuge über mobile.de* API
 Templates und Design können auf gewohnte "Contao Art" angepasst werden
 * 
 garantierte Unterstützung der letzten bzw. aktuellen Contao LTS Version
+
+\*mobile.de sowie das mobile.de Logo sind eingetragene Warenzeichen einer Drittpartei und stehen in keiner Verbindung zur pdir GmbH oder der mobile.de* Erweiterung für Contao. Die Erweiterung verwendet die mobile.de* API zum Import der Fahrzeugdaten.
