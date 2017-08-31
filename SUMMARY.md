@@ -9,5 +9,5 @@
    * [Installation](mobilede/installation.md)
    * [Einrichtung](mobilede/einrichtung.md)
    * [Probleme melden](mobilede/probleme_melden.md)
-   * Listenansicht
+   * [Listenansicht](mobilede/listenansicht.md)
 
