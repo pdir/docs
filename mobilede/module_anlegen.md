@@ -24,3 +24,4 @@ Für die Listenansicht platzieren Sie ein Element in dem vorgesehenen Artikel un
 * Zusätzlich müssen Sie in dem Feld **Detailansicht** die Seite mit der Detailansicht auswählen
     * In den drei Feldern, wie bei der Detailansicht beschrieben, muss zum Testen der Demo **demo** eingetragen sein.
 
+![](mobilede_auswahl_listenansicht-demo.png)
