@@ -7,8 +7,8 @@
    * [Probleme melden](amphtml/probleme_melden.md)
 * [mobile.de Inserate](mobilede/mobilede_inserate.md)
    * [Installation](mobilede/installation.md)
+   * [Module anlegen](mobilede/module_anlegen.md)
    * [Einrichtung](mobilede/einrichtung.md)
    * [Probleme melden](mobilede/probleme_melden.md)
    * [Listenansicht](mobilede/listenansicht.md)
-   * [Module anlegen](mobilede/module_anlegen.md)
 
