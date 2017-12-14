@@ -10,5 +10,5 @@
    * [Einrichtung](mobilede/einrichtung.md)
    * [Module anlegen](mobilede/module_anlegen.md)
    * [Probleme melden](mobilede/probleme_melden.md)
-* Maklermodul
+* [Maklermodul](maklermodul.md)
 
