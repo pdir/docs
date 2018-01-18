@@ -12,5 +12,5 @@
    * [Module anlegen](mobilede/module_anlegen.md)
    * [Probleme melden](mobilede/probleme_melden.md)
 * [Sharepoint Contao Modul](sharepoint_contao.md)
-   * Installation
+   * [Installation](sharepoint/installation.md)
 
