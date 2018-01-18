@@ -6,7 +6,6 @@
    * [Einrichtung](amphtml/einrichtung.md)
    * [Probleme melden](amphtml/probleme_melden.md)
 * [Maklermodul](maklermodul.md)
-* [Mate Theme](mate_theme.md)
 * [mobile.de Inserate](mobilede/mobilede_inserate.md)
    * [Installation](mobilede/installation.md)
    * [Einrichtung](mobilede/einrichtung.md)
