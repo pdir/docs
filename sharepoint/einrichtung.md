@@ -19,6 +19,11 @@ In der **Tabelle** können Sie über die Plus-Icons neue Zeilen oder Spalten anl
 
 Über das Feld **"Sortierung nach Feld"** ist es möglich nach einem Feldnamen (wie er in der 2. Reihe der Tabelle genannt wurde) absteigend oder aufsteigend zu sortieren. Unter **Experteneinstellungen** kann eine ID oder eine Klasse vergeben werden. Eine ID zu vergeben ist aber nicht zwingend notwendig. Wird keine angegeben, generiert das Modul eigenständig eine ID.
 
+Zum Schluss binden Sie das Modul in einem Artikel ein.
+
+###### Bild 2: Neue Tabelle anlegen (Beispieldaten)
+![](sp-beispiel-liste-anlegen.png)
+
 #### Individuelle Anpassungen
 
 Individuelle Anpassungen können im Template **mod_datatables.html5** vorgenommen werden. Dazu platzieren Sie das Template einfach in ihrem Template-Ordner. Im Modul können Sie unter Template-Einstellungen ein individuelles Template auswählen.
@@ -35,8 +40,5 @@ Die entsprechende **Sprachdatei** wird anhand der Contao **Website-Einstellung**
     "url": "//cdn.datatables.net/plug-ins/1.10.16/i18n/Norwegian-Bokmal.json"
 },
 ```
-
-###### Bild 2: Neue Tabelle anlegen (Beispieldaten)
-![](sp-beispiel-liste-anlegen.png)
 
 Weitere Beispiele und Dokumentationen zum Tabellen-Plugin DataTables finden Sie auf [datatables.net](https://datatables.net/).
