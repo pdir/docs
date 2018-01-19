@@ -34,9 +34,8 @@ Liefern Sie Ihre Inhalte für mobile Endgeräte noch schneller aus.
 
 ### Sharepoint Modul für Contao 4
 
-Liefern Sie Ihre Inhalte für mobile Endgeräte noch schneller aus.
+Importieren Sie Dateien von ihrem Sharepoint-Server in Ihre Contao-Webseite und stellen Sie sie in einer DataTables-Tabelle dar.
 
-[Dokumentation](amphtml/amphtml.html) | [Demo](http://demo.pdir.de/?amp) | [Projektwebseite](https://pdir.de/news/amphtml-beschleunigte-mobile-seiten-fuer-contao.html)
-
+[Dokumentation](sharepoint_contao.html)
 
 
