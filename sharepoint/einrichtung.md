@@ -32,7 +32,7 @@ In der zweiten Reihe der Tabelle können Sie zudem auch Spalten am Anfang oder E
 
 #### Cronjob
 
-Durch die Erweiterung der **localconfig.php** unter **system/config** kann ein Cronjob eingerichtet werden. Dazu fügen Sie einfach eine der folgenden Zeilen in diese Datei ein. Der Cronjob kann in verschiedenen Zeitabständen ausgeführt werden.
+Durch die Anpassung der **localconfig.php** unter **system/config** kann ein Cronjob eingerichtet werden, der in verschiedenen Zeitabständen ausgeführt werden kann. Dazu fügen Sie einfach eine der folgenden Zeilen in diese Datei ein.
 
 **Minütlich:**
 ```
