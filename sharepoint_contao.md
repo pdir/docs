@@ -12,10 +12,8 @@ Contao 4 (Managed Edition)
 Mit dieser Erweiterung können Sie Dateien von ihrem Sharepoint-Server in Ihre Contao-Webseite importieren und diese in einer DataTables-Tabelle darstellen lassen.
 
 **Alle Funktionen:**
-* 
-Import von Dateien von Ihrem Sharepoint-Server
-* 
-Darstellung der Daten in einer DataTables-Tabelle
+* Import von Dateien von Ihrem Sharepoint-Server ins Contao
+* Darstellung der Daten in einer DataTables-Tabelle
 * Anzahl der Einträge pro Seite festlegen
 * Sortierung nach allen Feldern möglich
 * Darstellung einer Pagination
