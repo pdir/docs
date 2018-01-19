@@ -2,8 +2,6 @@
 
 ## Sharepoint Contao Modul
 
-Mit dem Sharepoint Contao Modul können Sie Daten von Ihrem Sharepoint-Server in Ihre Contao-Webseite importieren und Sie als DataTables-Tabelle ausgeben lassen.
-
 #### Vorraussetzungen
 
 * 
@@ -13,4 +11,16 @@ Contao 4 (Managed Edition)
 
 Mit dieser Erweiterung können Sie Dateien von ihrem Sharepoint-Server in Ihre Contao-Webseite importieren und diese in einer DataTables-Tabelle darstellen lassen.
 
-Das Modul bringt 
+**Alle Funktionen:**
+* 
+Import von Dateien von Ihrem Sharepoint-Server
+* 
+Darstellung der Daten in einer DataTables-Tabelle
+* Anzahl der Einträge pro Seite festlegen
+* Sortierung nach allen Feldern möglich
+* Darstellung einer Pagination
+* Darstellung eines Eingabefeldes für die Suche
+* Werte für die Select-Box für Einträge pro Seite festlegen
+* Festlegen welche Spalten angezeigt werden sollen
+* Angaben von mehreren Feldern in einer Spalte
+* individuelle Anpassungen über ein eigenes Template
