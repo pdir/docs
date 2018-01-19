@@ -2,12 +2,12 @@
 
 ## Sharepoint Contao Modul
 
-#### Vorraussetzungen
+### Vorraussetzungen
 
 * 
 Contao 4 (Managed Edition)
 
-#### Beschreibung
+### Beschreibung
 
 Mit dieser Erweiterung können Sie Dateien von ihrem Sharepoint-Server in Ihre Contao-Webseite importieren und diese in einer DataTables-Tabelle darstellen lassen.
 
