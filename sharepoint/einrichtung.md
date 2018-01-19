@@ -38,3 +38,5 @@ Die entsprechende **Sprachdatei** wird anhand der Contao **Website-Einstellung**
 
 ###### Bild 2: Neue Tabelle anlegen (Beispieldaten)
 ![](sp-beispiel-liste-anlegen.png)
+
+Weitere Beispiele und Dokumentationen zum Tabellen-Plugin DataTables finden Sie auf [datatables.net](https://datatables.net/).
