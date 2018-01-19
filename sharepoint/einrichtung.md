@@ -27,9 +27,13 @@ In der zweiten Reihe der Tabelle können Sie zudem auch Spalten am Anfang oder E
 
 #### Sprachdatei
 
-Die entsprechende Sprachdatei wird anhand der Contao Website-Einstellung geladen. Sprachdateien, die nicht geladen werden, können über das Template angegeben werden. Alle Sprachdateien finden Sie auf folgender Seite: [Übersicht der unterstützten Sprachen](https://datatables.net/plug-ins/i18n/). Wenn Sie auf eine Sprache klicken, finden Sie unter CDN die entsprechende Sprachdatei, welche im Template eingebunden werden muss. Dazu ändern Sie im Template die folgende Zeile (in diesem Beispiel für Norwegisch-Bokmal):
+Die entsprechende **Sprachdatei** wird anhand der Contao **Website-Einstellung** geladen. Sprachdateien, die nicht geladen werden, können über das Template angegeben werden. Alle Sprachdateien finden Sie auf folgender Seite: [Übersicht der unterstützten Sprachen](https://datatables.net/plug-ins/i18n/). Wenn Sie auf eine Sprache klicken, finden Sie unter CDN die entsprechende Sprachdatei, welche im Template eingebunden werden muss. Dazu ändern Sie im Template im JavaScript-Code die folgende Zeile (in diesem Beispiel für Norwegisch-Bokmal):
 
 
+```
+"language": {
+    "url": "//cdn.datatables.net/plug-ins/1.10.16/i18n/Norwegian-Bokmal.json"
+},
 ```
 
 ###### Bild 2: Neue Tabelle anlegen (Beispieldaten)
