@@ -14,12 +14,12 @@ Mit dieser Erweiterung können Sie Dateien von ihrem Sharepoint-Server in Ihre C
 **Alle Funktionen:**
 * Import von Dateien von Ihrem Sharepoint-Server ins Contao
 * Darstellung der Daten in einer DataTables-Tabelle
-* Anzahl der Einträge pro Seite festlegen
 * Sortierung nach Feldern
-* Darstellung einer Pagination
+* Einstellung der Spalten, die angezeigt werden sollen
 * Darstellung einer Suche
-* Werte für die Select-Box für Einträge pro Seite festlegen
-* Festlegen welche Spalten angezeigt werden sollen
-* Angeben von mehreren Feldern in einer Spalte
-* individuelle Anpassungen über ein eigenes Template
-* Laden der Sprachdatei anhand Ihrer Website-Einstellung
+* Darstellung einer Pagination bei mehreren Seiten
+* Einstellung der Anzahl der Einträge pro Seite
+* Einstellung der Select-Box Einträge pro Seite
+* Angabe von mehreren Feldern in einer Spalte
+* Individuelle Anpassungen über ein eigenes Template
+* Laden einer Sprachdatei anhand Ihrer Website-Einstellungen
