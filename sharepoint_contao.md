@@ -22,5 +22,5 @@ Darstellung der Daten in einer DataTables-Tabelle
 * Darstellung eines Eingabefeldes für die Suche
 * Werte für die Select-Box für Einträge pro Seite festlegen
 * Festlegen welche Spalten angezeigt werden sollen
-* Angaben von mehreren Feldern in einer Spalte
+* Angeben von mehreren Feldern in einer Spalte
 * individuelle Anpassungen über ein eigenes Template
