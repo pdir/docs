@@ -29,7 +29,14 @@ Liefern Sie Ihre Inhalte für mobile Endgeräte noch schneller aus.
 
 [Dokumentation](amphtml/amphtml.html) | [Demo](http://demo.pdir.de/?amp) | [Projektwebseite](https://pdir.de/news/amphtml-beschleunigte-mobile-seiten-fuer-contao.html)
 
+---
 
+
+### Sharepoint Modul für Contao 4
+
+Liefern Sie Ihre Inhalte für mobile Endgeräte noch schneller aus.
+
+[Dokumentation](amphtml/amphtml.html) | [Demo](http://demo.pdir.de/?amp) | [Projektwebseite](https://pdir.de/news/amphtml-beschleunigte-mobile-seiten-fuer-contao.html)
 
 
 
