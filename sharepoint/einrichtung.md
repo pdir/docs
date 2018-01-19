@@ -1,7 +1,7 @@
 # Einrichtung
 
 ## Quelle anlegen
-Wählen Sie als erstes in der linken Navigation unter PDIR den Menüpunkt Sharepoint aus. Anschließend legen Sie über den Button "Neue Sharepoint-Liste anlegen" eine neue Sharepoint-Quelle an.
+Wählen Sie als erstes in der linken Navigation unter **PDIR** den Menüpunkt **Sharepoint** aus. Anschließend legen Sie über den Button **"Neue Sharepoint-Liste anlegen"** eine neue Sharepoint-Quelle an.
 
 Geben Sie alle Listen- und Sharepoint-Einstellungen ein *(Beispiel: Bild 1)*.
 
