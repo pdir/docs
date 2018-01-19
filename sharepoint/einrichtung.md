@@ -15,7 +15,7 @@ Legen Sie in ihrem Theme ein **neues Modul** mit dem Modultyp **"Sharepoint - Da
 
 Sie können auswählen wie viele **Einträge pro Seite** angezeigt werden sollen, welche Werte in der **Select-Box **für die möglichen Einträge pro Seite stehen sollen und ob eine Pagination oder ein Eingabefeld für die Suche dargestellt werden soll.
 
-In der **Tabelle** können Sie über die Plus-Icons neue Zeilen oder Spalten anlegen *(siehe Bild 2)*. Die **erste Reihe** der Tabelle wird immer als Kopfzeile verwendet. In der **zweiten Reihe** legen Sie fest, welche Daten aus der importierten Datei in welcher Spalte dargestellt werden sollen. **Mehrere Einträge in einer Spalte**, können kommagetrennt (ohne Leerzeichen) angegeben werden. In der Tabelle werden diese dann mit einem Leerzeichen getrennt ausgegeben.
+In der **Tabelle** können Sie über die Plus-Icons neue Zeilen oder Spalten anlegen *(siehe Bild 2)*. Die **erste Zeile** der Tabelle wird immer als Kopfzeile verwendet. In der **zweiten Zeile** legen Sie fest, welche Daten aus der importierten Datei in welcher Spalte dargestellt werden sollen. **Mehrere Einträge in einer Spalte**, können kommagetrennt (ohne Leerzeichen) angegeben werden. In der Tabelle werden diese dann mit einem Leerzeichen getrennt ausgegeben.
 
 Über das Feld **"Sortierung nach Feld"** ist es möglich nach einem Feldnamen (wie er in der 2. Reihe der Tabelle genannt wurde) absteigend oder aufsteigend zu sortieren. Unter **Experteneinstellungen** kann eine ID oder eine Klasse vergeben werden. Eine ID zu vergeben ist aber nicht zwingend notwendig. Wird keine angegeben, generiert das Modul eigenständig eine ID.
 
@@ -28,7 +28,7 @@ Zum Schluss binden Sie das Modul in einem Artikel ein.
 
 Individuelle Anpassungen können im Template **mod_datatables.html5** vorgenommen werden. Dazu platzieren Sie das Template einfach in ihrem Template-Ordner. Im Modul können Sie unter Template-Einstellungen ein individuelles Template auswählen.
 
-In der zweiten Reihe der Tabelle können Sie zudem auch Spalten am Anfang oder Ende leerlassen. Diese werden dann bei der Ausgabe der Tabelle ignoriert. So können Sie im Template selbst Spalten hinzufügen.
+In der zweiten Zeile der Tabelle können Sie zudem auch Spalten am Anfang oder Ende leer lassen. Diese werden dann bei der Ausgabe der Tabelle ignoriert. So können Sie im Template selbst Spalten hinzufügen.
 
 #### Cronjob
 
