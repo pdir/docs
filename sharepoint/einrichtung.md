@@ -30,6 +30,35 @@ Individuelle Anpassungen können im Template **mod_datatables.html5** vorgenomme
 
 In der zweiten Reihe der Tabelle können Sie zudem auch Spalten am Anfang oder Ende leerlassen. Diese werden dann bei der Ausgabe der Tabelle ignoriert. So können Sie im Template selbst Spalten hinzufügen.
 
+#### Cronjob
+
+Durch die Erweiterung der localconfig.php unter system/config kann ein Cronjob eingerichtet werden. Dazu fügen Sie einfach eine der folgenden Zeilen in diese Datei ein. Der Cronjob kann in verschiedenen Zeitabständen ausgeführt werden.
+
+**Minütlich:**
+```
+$GLOBALS['TL_CRON']['minutely'][] = array('Pdir\ContaoSharepointBundle\EventListener\CronListener', 'loadFile');
+```
+
+**Stündlich:**
+```
+$GLOBALS['TL_CRON']['hourly'][] = array('Pdir\ContaoSharepointBundle\EventListener\CronListener', 'loadFile');
+```
+
+**Täglich:**
+```
+$GLOBALS['TL_CRON']['daily'][] = array('Pdir\ContaoSharepointBundle\EventListener\CronListener', 'loadFile');
+```
+
+**Wöchentlich:**
+```
+$GLOBALS['TL_CRON']['weekly'][] = array('Pdir\ContaoSharepointBundle\EventListener\CronListener', 'loadFile');
+```
+
+**Monatlich:**
+```
+$GLOBALS['TL_CRON']['monthly'][] = array('Pdir\ContaoSharepointBundle\EventListener\CronListener', 'loadFile');
+```
+
 #### Sprachdatei
 
 Die entsprechende **Sprachdatei** wird anhand der Contao **Website-Einstellung** geladen. Sprachdateien, die nicht geladen werden, können über das Template angegeben werden. Alle Sprachdateien finden Sie auf folgender Seite: [Übersicht der unterstützten Sprachen](https://datatables.net/plug-ins/i18n/). Wenn Sie auf eine Sprache klicken, finden Sie unter CDN die URL zur entsprechenden Sprachdatei, welche im Template eingebunden werden muss. Dazu ändern Sie im Template im JavaScript-Code die folgende Zeile (in diesem Beispiel für Norwegisch-Bokmal):
