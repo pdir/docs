@@ -16,7 +16,7 @@ Bitte beachten Sie, dass neue Apps erst zum App-Review eingereicht und von Faceb
 
 ## News-Archiv anlegen
 
-Bevor Sie einen Account anlegen, sollten Sie ein News-Archiv anlegen, indem die Facebook-Posts importiert werden sollen. Eine Weiterleitungsseite müssen Sie beim News-Archiv angeben, da dies ein Pflichtfeld ist, wobei es für das Social Feed Bundle nicht relevant ist, da es keine News-Detailseite gibt. Idealerweise legen Sie für jeden Facebook-Account ein neues News-Archiv aus, da Sie so im Nachrichtenlisten-Modul später auch einzelne Accounts wieder abwählen können.
+Bevor Sie einen Account anlegen, sollten Sie ein News-Archiv anlegen, in das die Facebook-Posts importiert werden sollen. Eine Weiterleitungsseite müssen Sie beim News-Archiv angeben, da dies ein Pflichtfeld ist, wobei es für das Social Feed Bundle nicht relevant ist, da es keine News-Detailseite gibt. Idealerweise legen Sie für jeden Facebook-Account ein neues News-Archiv aus, da Sie so im Nachrichtenlisten-Modul später auch einzelne Accounts wieder abwählen können.
 
 ## Account anlegen
 
