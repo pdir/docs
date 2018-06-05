@@ -10,7 +10,7 @@ Auf dieser Seite können Sie neue Accounts anlegen und deren Einstellungen bearb
 
 ## Facebook-App anlegen
 
-Wenn Sie noch keine eigene Facebook App haben, müssen Sie diese erst anlegen. Ohne App können Sie keinen Social Feed Stream auf Ihrer Webseite anzeigen. Wie Sie eine App registrieren und konfigurieren können Sie auf folgender Seite nachlesen: https://developers.facebook.com/docs/apps/register?locale=de\_DE.
+Wenn Sie noch keine eigene Facebook App haben, müssen Sie diese erst anlegen. Ohne App können Sie keinen Social Feed Stream auf Ihrer Webseite anzeigen. Wie Sie eine App registrieren und konfigurieren können Sie auf folgender Seite nachlesen: [https://developers.facebook.com/docs/apps/register?locale=de\_DE](https://developers.facebook.com/docs/apps/register?locale=de_DE).
 
 Bitte beachten Sie, dass neue Apps erst zum App-Review eingereicht und von Facebook bestätigt werden müssen, damit Sie einen Social Feed Stream auf Ihrer Webseite anzeigen können. Der App-Review-Prozess kann einige Wochen in Anspruch nehmen.
 
@@ -18,9 +18,9 @@ Bitte beachten Sie, dass neue Apps erst zum App-Review eingereicht und von Faceb
 
 Um einen Account anzulegen, wählen Sie die Schaltfläche **Neuen Social-Feed Account anlegen** aus. Anschließend öffnet sich eine Seite mit dem Formular, wo Sie alle notwendigen Daten zum Account hinterlegen müssen.
 
-**Facebook-Account:** Geben Sie hier den Namen des Facebook-Accounts ein. Den Namen sehen Sie immer in der URL, wenn Sie Ihre Facebook-Seite aufrufen \(z. B. [facebook.com/account-name/](https://www.facebook.com/**meissen.online**/%29\)\).
+**Facebook-Account:** Geben Sie hier den Namen des Facebook-Accounts ein. Den Namen sehen Sie immer in der URL, wenn Sie Ihre Facebook-Seite aufrufen \(z. B. [facebook.com/account-name/](https://www.facebook.com/**meissen.online**/%29%29\).
 
-**App ID:** Geben Sie hier die App ID Ihrer Facebook-App ein. Ihre App ID und den App Secret \(oder auch App Geheimcode\) können Sie in Ihrer Facebook-App unter Einstellungen &gt; Allgemeines einsehen. Bitte beachten Sie, dass Sie Ihre App erst zum App Review einreichen müssen, bevor Sie einen Social Feed Stream auf Ihrer Webseite anzeigen können. Ihre App-Einstellungen können Sie auf folgender Webseite einsehen: [https://developers.facebook.com/](https://developers.facebook.com/).
+**App ID:** Geben Sie hier die App ID Ihrer Facebook-App ein. Ihre App ID und den App Secret \(oder auch App Geheimcode\) können Sie in Ihrer Facebook-App unter Einstellungen &gt; Allgemeines einsehen.
 
 **App Secret: **Geben Sie hier den App Secret bzw. den App Geheimcode ein.
 
