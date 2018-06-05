@@ -14,6 +14,10 @@ Wenn Sie noch keine eigene Facebook App haben, müssen Sie diese erst anlegen. O
 
 Bitte beachten Sie, dass neue Apps erst zum App-Review eingereicht und von Facebook bestätigt werden müssen, damit Sie einen Social Feed Stream auf Ihrer Webseite anzeigen können. Der App-Review-Prozess kann einige Wochen in Anspruch nehmen.
 
+## News-Archiv anlegen
+
+Bevor Sie einen Account anlegen, sollten Sie ein News-Archiv anlegen, indem die Facebook-Posts importiert werden sollen. Eine Weiterleitungsseite müssen Sie beim News-Archiv angeben, da dies ein Pflichtfeld ist, wobei es für das Social Feed Bundle nicht relevant ist, da es keine News-Detailseite gibt. Idealerweise legen Sie für jeden Facebook-Account ein neues News-Archiv aus, da Sie so im Nachrichtenlisten-Modul später auch einzelne Accounts wieder abwählen können.
+
 ## Account anlegen
 
 Um einen Account anzulegen, wählen Sie die Schaltfläche **Neuen Social-Feed Account anlegen** aus. Anschließend öffnet sich eine Seite mit dem Formular, wo Sie alle notwendigen Daten zum Account hinterlegen müssen.
@@ -24,7 +28,7 @@ Um einen Account anzulegen, wählen Sie die Schaltfläche **Neuen Social-Feed Ac
 
 **App Secret: **Geben Sie hier den App Secret bzw. den App Geheimcode ein.
 
-**News-Archiv:** Wählen Sie hier das News-Archiv aus, in welches die Facebook-Posts importiert werden sollen. Dies sollten Sie vorher anlegen. Eine Weiterleitungsseite müssen Sie beim News-Archiv angeben, da dies ein Pflichtfeld ist, wobei es für das Social Feed Bundle nicht relevant ist, da es keine News-Detailseite gibt. Idealerweise legen Sie für jeden Facebook-Account ein neues News-Archiv aus, da Sie so im Nachrichtenlisten-Modul später auch einzelne Accounts wieder abwählen können.
+**News-Archiv:** Wählen Sie hier das News-Archiv aus, in welches die Facebook-Posts importiert werden sollen.
 
 **Ausführung des Cronjobs:** Wählen Sie hier aus, wie oft der Cronjob aufgerufen werden soll, um neue Facebook-Posts zu importieren. Sie haben folgende Einstellmöglichkeiten: kein Cronjob, minütlich, stündlich, täglich, wöchentlich und monatlich.
 
