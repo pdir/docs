@@ -10,7 +10,7 @@ Auf dieser Seite können Sie neue Accounts anlegen und deren Einstellungen bearb
 
 ## Facebook-App anlegen
 
-Wenn Sie noch keine eigene Facebook App haben, müssen Sie diese erst anlegen. Ohne App können Sie keinen Social Feed Stream auf Ihrer Webseite anzeigen. Wie Sie eine App registrieren und konfigurieren können Sie auf folgender Seite nachlesen: [https://developers.facebook.com/docs/apps/register?locale=de\_DE](https://developers.facebook.com/docs/apps/register?locale=de_DE).
+Wenn Sie noch keine eigene Facebook App haben, müssen Sie diese erst anlegen. Ohne App können Sie keinen Social Feed Stream auf Ihrer Webseite anzeigen. Wie Sie eine App registrieren und konfigurieren, können Sie auf folgender Seite nachlesen: [https://developers.facebook.com/docs/apps/register?locale=de\_DE](https://developers.facebook.com/docs/apps/register?locale=de_DE).
 
 Bitte beachten Sie, dass neue Apps erst zum App-Review eingereicht und von Facebook bestätigt werden müssen, damit Sie einen Social Feed Stream auf Ihrer Webseite anzeigen können. Der App-Review-Prozess kann einige Wochen in Anspruch nehmen.
 
