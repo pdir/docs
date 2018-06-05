@@ -6,7 +6,7 @@ Die Social Feed Erweiterung zeigt einen Feed aus den beliebtesten sozialen Netzw
 
 ### Installation
 
-Eine Anleitung zur Installation des Social Feed Bundles finden Sie [hier](/mobilede/installation.md).
+Eine Anleitung zur Installation des Social Feed Bundles finden Sie [hier](/social-feed/installation.md).
 
 ### Einrichtung Facebook-Stream
 
