@@ -52,5 +52,5 @@ Unter dem Punkt Social Feed Einstellungen können Sie die **maximale Textlänge*
 
 ## Modul platzieren
 
-Nachdem Sie das Modul angelegt haben, platzieren Sie das Modul an einer beliebigen Stelle im Artikel.
+Nachdem Sie das Modul angelegt haben, platzieren Sie das Modul an einer beliebigen Stelle.
 
