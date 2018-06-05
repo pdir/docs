@@ -16,5 +16,5 @@
   * [Einrichtung](sharepoint/einrichtung.md)
 * [Social Feed](social-feed.md)
   * [Installation](social-feed/installation.md)
-  * Einrichtung Facebook-Stream
+  * [Einrichtung Facebook-Stream](social-feed/einrichtung-facebook-stream.md)
 
