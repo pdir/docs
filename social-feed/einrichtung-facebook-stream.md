@@ -12,7 +12,7 @@ Auf dieser Seite können Sie neue Accounts anlegen und deren Einstellungen bearb
 
 Um einen Account anzulegen, wählen Sie die Schaltfläche **Neuen Social-Feed Account anlegen** aus. Anschließend öffnet sich eine Seite mit dem Formular, wo Sie alle notwendigen Daten zum Account hinterlegen müssen.
 
-**Facebook-Account:** Geben Sie hier den Namen des Facebook-Accounts ein. Den Namen sehen Sie immer in der URL, wenn Sie Ihre Facebook-Seite aufrufen \(z. B. [facebook.com/account-name/](https://www.facebook.com/**meissen.online**/\)\).
+**Facebook-Account:** Geben Sie hier den Namen des Facebook-Accounts ein. Den Namen sehen Sie immer in der URL, wenn Sie Ihre Facebook-Seite aufrufen \(z. B. [facebook.com/account-name/](https://www.facebook.com/**meissen.online**/%29\).
 
 **App ID:** Geben Sie hier die App ID Ihrer Facebook-App ein. Ihre App ID und den App Secret \(oder auch App Geheimcode\) können Sie in Ihrer Facebook-App unter Einstellungen &gt; Allgemeines einsehen. Bitte beachten Sie, dass Sie Ihre App erst zum App Review einreichen müssen, bevor Sie einen Social Feed Stream auf Ihrer Webseite anzeigen können. Ihre App-Einstellungen können Sie auf folgender Webseite einsehen: [https://developers.facebook.com/](https://developers.facebook.com/).
 
@@ -34,7 +34,11 @@ Als Modultyp wählen Sie unter Nachrichten die **Nachrichtenliste** aus. Wählen
 
 Beim Nachrichtentemplate müssen Sie das Template **news\_social\_feed** auswählen. Beim individuellen Template wählen Sie **mod\_newslist\_social\_feed** aus. Unter Bildeinstellungen bei **Bildgröße** können Sie die Größe der Bilder anpassen.
 
+![](/social-feed/img/template_auswahl_socialfeed.png)
+
 Unter dem Punkt Social Feed Einstellungen können Sie die **maximale Textlänge**, die **Anzahl der Spalten** einstellen sowie **Masonry** aktivieren/deaktivieren und **Bilder anzeigen/ausblenden**.
+
+![](/social-feed/img/socialfeed_einstellungen.png)
 
 ## Modul platzieren
 
