@@ -20,8 +20,8 @@ Um Beiträge der eigenen Facebook-Seite anzuzeigen, müssen Sie im Contao Backen
 
   ![](/social-feed/img/fb_access_token_berechtigungen.jpg)
 
-* Kopieren Sie nun den Zugriffsschlüssel aus dem langen Eingabefeld, direkt neben dem Feld "Zugriffsschlüssel anfordern".  
-  
+* Kopieren Sie nun den Zugriffsschlüssel aus dem langen Eingabefeld, direkt neben dem Feld "Zugriffsschlüssel anfordern".
+
   ![](/social-feed/img/fb_access_token_temp.jpg)
 
 ##### 3. Access Token verlängern
@@ -29,8 +29,6 @@ Um Beiträge der eigenen Facebook-Seite anzuzeigen, müssen Sie im Contao Backen
 * Rufen Sie nun den Access Token Debugger über folgende URL auf: [https://developers.facebook.com/tools/debug/accesstoken](https://developers.facebook.com/tools/debug/accesstoken)
 
 * Fügen Sie den gerade kopierten Zugriffsschlüssel in das Eingabefeld für den Zugriffsschlüssel ein und klicken Sie auf Fehlerbehebung.
-
-* Fügen Sie den eben kopierten Zugriffsschlüssel in das obere Eingabefeld.
 
 * Klicken Sie im unteren Bereich der Webseite auf den Button "Zugriffsschlüssel verlängern" und kopieren Sie den generierten Zugriffsschlüssel.
 
