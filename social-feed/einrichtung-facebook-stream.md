@@ -20,7 +20,7 @@ Bevor Sie einen Account anlegen, sollten Sie ein News-Archiv anlegen, in das die
 
 ## Account anlegen
 
-Um einen Account anzulegen, wählen Sie die Schaltfläche **Neuen Social-Feed Account anlegen** aus. Anschließend öffnet sich eine Seite mit dem Formular, wo Sie alle notwendigen Daten zum Account hinterlegen müssen.
+Um einen Account anzulegen, wählen Sie die Schaltfläche **Neuen Social-Feed Account anlegen** aus. Anschließend öffnet sich eine Seite mit dem Formular, wo Sie alle notwendigen Daten zum Account hinterlegen müssen. Nachdem Sie gespeichert haben, kann es sein, dass es 2-3 Minuten dauert bis alle Beiträge importiert wurden.
 
 **Facebook-Account:** Geben Sie hier den Namen des Facebook-Accounts ein. Den Namen sehen Sie immer in der URL, wenn Sie Ihre Facebook-Seite aufrufen \(z. B. [facebook.com/account-name/](https://www.facebook.com/**meissen.online**/%29%29\).
 
