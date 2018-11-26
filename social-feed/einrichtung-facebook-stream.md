@@ -12,7 +12,7 @@ Auf dieser Seite können Sie neue Accounts anlegen und deren Einstellungen bearb
 
 Wenn Sie noch keine eigene Facebook App haben, müssen Sie diese erst anlegen. Ohne App können Sie keinen Social Feed Stream auf Ihrer Webseite anzeigen. Wie Sie eine App registrieren und konfigurieren, können Sie auf folgender Seite nachlesen: [https://developers.facebook.com/docs/apps/register?locale=de\_DE](https://developers.facebook.com/docs/apps/register?locale=de_DE).
 
-Bitte beachten Sie, dass neue Apps erst zum App-Review eingereicht und von Facebook bestätigt werden müssen, damit Sie einen Social Feed Stream auf Ihrer Webseite anzeigen können. Der App-Review-Prozess kann einige Wochen in Anspruch nehmen.
+Wenn Sie Beiträge einer Facebook-Seite, von der Sie nicht Admin sind, anzeigen lassen wollen, müssen Sie die Facebook App erst zum App Review einreichen. Für die eigene Facebook Seite ist dies nicht notwendig.
 
 ## News-Archiv anlegen
 
@@ -27,6 +27,8 @@ Um einen Account anzulegen, wählen Sie die Schaltfläche **Neuen Social-Feed Ac
 **App ID:** Geben Sie hier die App ID Ihrer Facebook-App ein. Ihre App ID und den App Secret \(oder auch App Geheimcode\) können Sie in Ihrer Facebook-App unter Einstellungen &gt; Allgemeines einsehen.
 
 **App Secret: **Geben Sie hier den App Secret bzw. den App Geheimcode ein.
+
+**Access Token:** Geben Sie hier den Access Token ein. Eine Anleitung, wie Sie den Access Token generieren können, finden Sie [hier](/social-feed/generierung-des-facebook-access-tokens.md).
 
 **News-Archiv:** Wählen Sie hier das News-Archiv aus, in welches die Facebook-Posts importiert werden sollen.
 

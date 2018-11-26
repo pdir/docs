@@ -17,4 +17,5 @@
 * [Social Feed](social-feed.md)
   * [Installation](social-feed/installation.md)
   * [Einrichtung Facebook-Stream](social-feed/einrichtung-facebook-stream.md)
+  * [Facebook Access Token](social-feed/generierung-des-facebook-access-tokens.md)
 
