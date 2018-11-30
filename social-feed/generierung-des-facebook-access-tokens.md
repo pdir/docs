@@ -36,7 +36,9 @@ Um Beiträge der eigenen Facebook-Seite anzuzeigen, müssen Sie im Contao Backen
 
 * Rufen Sie nun wieder den Graph API Explorer auf: [https://developers.facebook.com/tools/explorer/](https://developers.facebook.com/tools/explorer/).
 
-* In das Eingabefeld darunter fügen Sie folgendes ein: PAGEID?fields=access\_token \(PAGEID ersetzen Sie durch den Namen Ihrer Facebook Seite, wie er in der URL steht. Beispiel: [facebook.com/account-name/](/facebook.com/account-name/). PAGEID müssten Sie in diesem Fall durch account-name ersetzen.\)
+* Wählen Sie beim Auswahlfeld App Ihre angelegte App aus.
+
+* In das Eingabefeld für den Zugriffsschlüssel darunter fügen Sie folgendes ein: PAGEID?fields=access\_token \(PAGEID ersetzen Sie durch den Namen Ihrer Facebook Seite, wie er in der URL steht. Beispiel: [facebook.com/seiten-name/](/facebook.com/account-name/). PAGEID müssten Sie in diesem Fall durch seiten-name ersetzen.\)
 
 * Wenn Sie jetzt auf Senden klicken, müsste eine Ausgabe mit dem Access Token erscheinen. Diesen Access Token, der nie mehr abläuft, müssen Sie im Contao Backend bei Ihrem Social Feed Account eintragen.
 
