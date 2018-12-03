@@ -58,11 +58,9 @@ Unter dem Punkt Social Feed Einstellungen können Sie die **maximale Textlänge*
 
 Nachdem Sie das Modul angelegt haben, platzieren Sie das Modul an einer beliebigen Stelle.
 
-
-
 ## Template-Anpassungen
 
-Wenn Sie Contao 4.4 oder 4.5 nutzen, ist das Beitragsbild noch nicht standardmäßig verlinkt. Wenn Sie das Bild verlinken möchten, müssten Sie das Template wie folgt anpassen.
+Wenn Sie Contao 4.4 oder 4.5 nutzen, ist das Beitragsbild noch nicht standardmäßig verlinkt. Wenn Sie das Bild verlinken möchten, müssten Sie das Template **news\_social\_feed.html5** wie folgt anpassen.
 
 ```php
 <a href="<?= $this->url ?>" target="_blank">
