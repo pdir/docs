@@ -24,7 +24,7 @@ Bevor Sie einen Account anlegen, sollten Sie ein News-Archiv anlegen, in das die
 
 Um einen Account anzulegen, wählen Sie die Schaltfläche **Neuen Social-Feed Account anlegen** aus. Anschließend öffnet sich eine Seite mit dem Formular, wo Sie alle notwendigen Daten zum Account hinterlegen müssen. Nachdem Sie gespeichert haben, kann es sein, dass es 2-3 Minuten dauert bis alle Beiträge importiert wurden.
 
-**Facebook-Account:** Geben Sie hier den Namen des Facebook-Accounts ein. Den Namen sehen Sie immer in der URL, wenn Sie Ihre Facebook-Seite aufrufen \(z. B. [facebook.com/account-name/](https://www.facebook.com/**meissen.online**/%29%29\)\).
+**Facebook-Account:** Geben Sie hier den Namen des Facebook-Accounts ein. Den Namen sehen Sie immer in der URL, wenn Sie Ihre Facebook-Seite aufrufen \(z. B. [facebook.com/account-name/](https://www.facebook.com/**meissen.online**/%29%29%29\).
 
 **App ID:** Geben Sie hier die App ID Ihrer Facebook-App ein. Ihre App ID und den App Secret \(oder auch App Geheimcode\) können Sie in Ihrer Facebook-App unter Einstellungen &gt; Allgemeines einsehen.
 
@@ -57,4 +57,20 @@ Unter dem Punkt Social Feed Einstellungen können Sie die **maximale Textlänge*
 ## Modul platzieren
 
 Nachdem Sie das Modul angelegt haben, platzieren Sie das Modul an einer beliebigen Stelle.
+
+
+
+## Template-Anpassungen
+
+Wenn Sie Contao 4.4 oder 4.5 nutzen, ist das Beitragsbild noch nicht standardmäßig verlinkt. Wenn Sie das Bild verlinken möchten, müssten Sie das Template wie folgt anpassen.
+
+```php
+<a href="<?= $this->url ?>" target="_blank">
+    <?php if ($this->addImage && $this->sfImages): ?>
+        <?php $this->insert('image', $this->arrData); ?>
+    <?php endif; ?>
+</a>
+```
+
+
 
