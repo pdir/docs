@@ -14,7 +14,7 @@ Um Beiträge der eigenen Facebook-Seite anzuzeigen, müssen Sie im Contao Backen
 
 * Klicken Sie im Auswahlfeld darunter auf "Zugriffsschlüssel des Nutzers anfordern".
   
-  <img src="/social-feed/img/fb_access_token_generieren.jpg">
+  <img src="/social-feed/img/fb_access_token_generieren.jpg" style="width:100%;">
 
 * Es öffnet sich nun ein Fenster, wo Sie die Berechtigungen setzen können. Wählen Sie "manage\_pages" aus und klicken Sie auf "Zugriffsschlüssel anfordern". Stimmen Sie nun den folgenden Berechtigungs-Anfragen zu.
 
