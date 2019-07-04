@@ -10,5 +10,5 @@ Das Modul ist mit Contao 4.3 oder höher kompatibel.
 * auf **Prüfen & Installieren** klicken und **Änderungen anwenden**
 * Install-Tool aufrufen und Datenbank aktualisieren
 
-![](/social-feed/img/installation_socialfeed.png)
+![](/docs/_images/social-feed/installation_socialfeed.png)
 

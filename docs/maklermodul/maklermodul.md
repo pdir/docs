@@ -2,7 +2,7 @@
 
 ---
 
-![](img/maklermodul_logo-230px.png)
+![](docs/_images/maklermodul/maklermodul_logo-230px.png)
 
 Makler Modul für Contao - Präsentieren Sie alle Miet- und Kaufimmobilien aus Ihrer eigenen Webseite.
 

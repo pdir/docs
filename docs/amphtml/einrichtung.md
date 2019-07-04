@@ -4,11 +4,11 @@
 Herunterladen der cto-Datei von https://github.com/pdir/amphtml-bundle/raw/master/files/amphtml.cto 
 2. 
 Das Theme über **"Themes > Theme Import"** installieren.
-![](amphtml-theme-import.png)
+![](../_images/amphtml/amphtml-theme-import.png)
 3. 
 AMPHTML im Startpunkt der Webseite aktivieren, **default** als AMP HTML Layout auswählen und die gewünschten Spalten, die angezeigt werden sollen, auswählen
 
-![](amphtml-aktivieren.png)
+![](../_images/amphtml/amphtml-aktivieren.png)
 
 Mit dem Zusatz **?amp**, der an die Domain angehangen wird, lassen sich die Amp-Seiten aufrufen (z. B. www.domain.de?amp).
 

@@ -2,11 +2,11 @@
 
 Nach der Installation des Moduls werden Sie im linken Menü unter **PDIR APPS** den neuen Menüpunkt **Social Feed Accounts** sehen.
 
-![](/social-feed/img/neuer_menupunkt_socialfeed.png)
+![](/docs/_images/social-feed/neuer_menupunkt_socialfeed.png)
 
 Auf dieser Seite können Sie neue Accounts anlegen und deren Einstellungen bearbeiten.
 
-![](/social-feed/img/accountliste_socialfeed.png)
+![](/docs/_images/social-feed/accountliste_socialfeed.png)
 
 ## Facebook-App anlegen
 
@@ -38,7 +38,7 @@ Um einen Account anzulegen, wählen Sie die Schaltfläche **Neuen Social-Feed Ac
 
 **Letzter Import:** Die zwei Textfelder für den letzten Import dienen nur zur Information, wann der letzte Import stattfand.
 
-_\(Die eingebenen Daten im Screenshot sind lediglich Beispieldaten\)_![](/social-feed/img/account_anlegen_socialfeed.png)
+_\(Die eingebenen Daten im Screenshot sind lediglich Beispieldaten\)_![](/docs/_images/social-feed/account_anlegen_socialfeed.png)
 
 ## Modul anlegen
 
@@ -48,11 +48,11 @@ Als Modultyp wählen Sie unter Nachrichten die **Nachrichtenliste** aus. Wählen
 
 Beim Nachrichtentemplate müssen Sie das Template **news\_social\_feed** auswählen. Beim individuellen Template wählen Sie **mod\_newslist\_social\_feed** aus. Unter Bildeinstellungen bei **Bildgröße** können Sie die Größe der Bilder anpassen.
 
-![](/social-feed/img/template_auswahl_socialfeed.png)
+![](/docs/_images/social-feed/template_auswahl_socialfeed.png)
 
 Unter dem Punkt Social Feed Einstellungen können Sie die **maximale Textlänge**, die **Anzahl der Spalten** einstellen sowie **Masonry** aktivieren/deaktivieren und **Bilder anzeigen/ausblenden**.
 
-![](/social-feed/img/socialfeed_einstellungen.png)
+![](/docs/_images/social-feed/socialfeed_einstellungen.png)
 
 ## Modul platzieren
 

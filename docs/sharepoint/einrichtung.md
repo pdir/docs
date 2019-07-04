@@ -7,7 +7,7 @@ Geben Sie alle Listen- und Sharepoint-Einstellungen ein *(Beispiel: Bild 1)*.
 
 
 ###### Bild 1: Neue Sharepoint-Quelle anlegen (Beispieldaten)
-![](sp-beispiel-quelle.png)
+![](../docs/_images/sharepoint/sp-beispiel-quelle.png)
 
 ## Modul anlegen
 
@@ -22,7 +22,7 @@ In der **Tabelle** können Sie über die Plus-Icons neue Zeilen oder Spalten anl
 Zum Schluss binden Sie das Modul in einem Artikel ein.
 
 ###### Bild 2: Neue Tabelle anlegen (Beispieldaten)
-![](sp-beispiel-liste-anlegen.png)
+![](../docs/_images/sharepoint/sp-beispiel-liste-anlegen.png)
 
 #### Individuelle Anpassungen
 

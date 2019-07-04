@@ -4,7 +4,7 @@ Dieses Handbuch umfasst alle Dokumentationen unserer Contao-Erweiterungen.
 
 ---
 
-![](img/maklermodul_logo-230px.png)
+![](docs/_images/maklermodul/maklermodul_logo-230px.png)
 
 Makler Modul für Contao - Präsentieren Sie alle Miet- und Kaufimmobilien aus Ihrer eigenen Webseite.
 
@@ -12,7 +12,7 @@ Makler Modul für Contao - Präsentieren Sie alle Miet- und Kaufimmobilien aus I
 
 ---
 
-![](img/mobilemodul_logo_267x45px.png)
+![](docs/_images/maklermodul/mobilemodul_logo_267x45px.png)
 
 Präsentieren Sie Ihre Fahrzeuge auf der eigenen Webseite.
 

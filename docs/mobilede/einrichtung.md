@@ -14,7 +14,7 @@ Wählen Sie in der linken Navigationsstruktur unter PDIR APPS den Punkt **Mobile
 * 
 Wählen Sie den Button **Lizenz per E-Mail bestellen** aus. Anschließend öffnet sich Ihr E-Mail-Programm mit einer vorgefertigten E-Mail, wo Sie nur Ihren Domainnamen sowie Ihre Rechnungsanschrift angeben müssen.
 
-![](mobilede-lizenz-per-email-bestellen.png)
+![](../docs/_images/mobilede/mobilede-lizenz-per-email-bestellen.png)
 
 ## Download der Vollversion
 

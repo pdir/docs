@@ -18,11 +18,11 @@ Um Beiträge der eigenen Facebook-Seite anzuzeigen, müssen Sie im Contao Backen
 
 * Es öffnet sich nun ein Fenster, wo Sie die Berechtigungen setzen können. Wählen Sie "manage\_pages" aus und klicken Sie auf "Zugriffsschlüssel anfordern". Stimmen Sie nun den folgenden Berechtigungs-Anfragen zu.
 
-  ![](/social-feed/img/fb_access_token_berechtigungen.jpg)
+  ![](/docs/_images/social-feed/fb_access_token_berechtigungen.jpg)
 
 * Kopieren Sie nun den Zugriffsschlüssel aus dem langen Eingabefeld, direkt neben dem Feld "Zugriffsschlüssel anfordern".
 
-  ![](/social-feed/img/fb_access_token_temp.jpg)
+  ![](/docs/_images/social-feed/fb_access_token_temp.jpg)
 
 ##### 3. Access Token verlängern
 
@@ -42,14 +42,14 @@ Um Beiträge der eigenen Facebook-Seite anzuzeigen, müssen Sie im Contao Backen
 
 * Wenn Sie jetzt auf Senden klicken, müsste eine Ausgabe mit dem Access Token erscheinen. Diesen Access Token, der nie mehr abläuft, müssen Sie im Contao Backend bei Ihrem Social Feed Account eintragen.
 
-  ![](/social-feed/img/fb_access_token_never_expired.jpg)
+  ![](/docs/_images/social-feed/fb_access_token_never_expired.jpg)
 
 **5. Access Token testen \(optional\)**
 
 * Wenn Sie testen wollen, ob der Access Token nie mehr abläuft, rufen Sie wieder den Access Token Debugger auf: [https://developers.facebook.com/tools/debug/accesstoken](https://developers.facebook.com/tools/debug/accesstoken)
 * Wenn Sie den Access Token in dem Eingabefeld einfügen und auf Fehlerbehebung klicken, sollte bei Ablaufdatum niemals stehen.
 
-  ![](/social-feed/img/fb_access_token_testen.jpg)
+  ![](/docs/_images/social-feed/fb_access_token_testen.jpg)
 
 
 
