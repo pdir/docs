@@ -1,10 +1,12 @@
 
 - [AMPHTML](amphtml/index.md)
+  - [Installation](amphtml/installation.md)
+  - [Einrichtung](amphtml/einrichtung.md)
+  - [Probleme melden](amphtml/probleme_melden.md)
 - [Maklermodul](maklermodul/index.md)
 - [mobile.de Inserate](mobilede/index.md)
 - [Sharepoint Contao Modul](sharepoint/index.md)
 - [Social Feed](social-feed/index.md)
-      
 
 ---
 

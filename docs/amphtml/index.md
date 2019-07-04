@@ -1,5 +1,7 @@
 # Dokumentation
 
+<img src="../_images/amphtml/amphtml_logo.svg" width="150">
+
 ## AMPHTML für Contao
 
 Liefern Sie Ihre Inhalte für mobile Endgeräte noch schneller aus.

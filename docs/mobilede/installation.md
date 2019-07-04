@@ -11,7 +11,7 @@ im **Suchfeld** „pdirMobileDe“ eingeben und die Taste **Enter** drücken
 * 
 im Suchergebnis rechts oben in der Ecke das **Symbol** zum **Installieren** klicken sowie den Anweisungen folgen
 
-![](../docs/_images/mobilede/mobilede_installation_contao3.png)
+![](../_images/mobilede/mobilede_installation_contao3.png)
 
 ODER
 
@@ -33,4 +33,4 @@ auf **Prüfen & Installieren** klicken und **Änderungen anwenden**
 * 
 Install-Tool aufrufen und Datenbank aktualisieren
 
-![](../docs/_images/mobilede/mobilede_installation_contao4.png)
+![](../_images/mobilede/mobilede_installation_contao4.png)

@@ -1,2 +1,0 @@
-# pdir Erweiterungen - Dokumentation
-

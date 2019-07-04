@@ -3,8 +3,9 @@
 - [Maklermodul](maklermodul/index.md)
 - [mobile.de Inserate](mobilede/index.md)
 - [Sharepoint Contao Modul](sharepoint/index.md)
+  - [Installation](sharepoint/installation.md)
+  - [Einrichtung](sharepoint/einrichtung.md)
 - [Social Feed](social-feed/index.md)
-      
 
 ---
 
