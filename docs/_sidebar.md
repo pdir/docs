@@ -1,5 +1,5 @@
 
-- [AMPHTML](amphtml/index.md)
+- [AMPHTML](/amphtml/index.md)
 - [Maklermodul](maklermodul/index.md)
 - [mobile.de Inserate](mobilede/index.md)
 - [Sharepoint Contao Modul](sharepoint/index.md)

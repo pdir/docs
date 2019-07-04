@@ -8,7 +8,7 @@ Dieses Handbuch umfasst alle Dokumentationen unserer Contao-Erweiterungen.
 
 Makler Modul für Contao - Präsentieren Sie alle Miet- und Kaufimmobilien aus Ihrer eigenen Webseite.
 
-[Dokumentation](https://docs.maklermodul.de/) \| [Demo](http://www.maklermodul.de/immoliste.html) \| [Projektwebseite](https://www.maklermodul.de/)
+[Dokumentation](maklermodul/index.md) \| [Demo](http://www.maklermodul.de/immoliste.html) \| [Projektwebseite](https://www.maklermodul.de/)
 
 ---
 
@@ -16,7 +16,7 @@ Makler Modul für Contao - Präsentieren Sie alle Miet- und Kaufimmobilien aus I
 
 Präsentieren Sie Ihre Fahrzeuge auf der eigenen Webseite.
 
-[Dokumentation](mobilede/mobilede_inserate.html) \| [Demo](http://demo.pdir.de/mobile-de-inserate-demo.html) \| [Projektwebseite](https://pdir.de/mobile-de-integration-fuer-contao-cms.html)
+[Dokumentation](mobilede/index.html) \| [Demo](http://demo.pdir.de/mobile-de-inserate-demo.html) \| [Projektwebseite](https://pdir.de/mobile-de-integration-fuer-contao-cms.html)
 
 ---
 
