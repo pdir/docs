@@ -26,7 +26,7 @@ Präsentieren Sie Ihre Fahrzeuge auf der eigenen Webseite.
 
 Liefern Sie Ihre Inhalte für mobile Endgeräte noch schneller aus.
 
-[Dokumentation](amphtml/amphtml.html) \| [Demo](http://demo.pdir.de/?amp) \| [Projektwebseite](https://pdir.de/news/amphtml-beschleunigte-mobile-seiten-fuer-contao.html)
+[Dokumentation](amphtml/index.md) \| [Demo](http://demo.pdir.de/?amp) \| [Projektwebseite](https://pdir.de/news/amphtml-beschleunigte-mobile-seiten-fuer-contao.html)
 
 ---
 
@@ -34,7 +34,7 @@ Liefern Sie Ihre Inhalte für mobile Endgeräte noch schneller aus.
 
 Importieren Sie Dateien von ihrem Sharepoint-Server in Ihre Contao-Webseite und stellen Sie sie in einer DataTables-Tabelle dar.
 
-[Dokumentation](sharepoint_contao.html)
+[Dokumentation](sharepoint/index.md)
 
 ---
 
@@ -44,5 +44,5 @@ Importieren Sie Dateien von ihrem Sharepoint-Server in Ihre Contao-Webseite und 
 
 Die Social Feed Erweiterung zeigt einen Feed aus den beliebtesten sozialen Netzwerken an. Zur Zeit wird nur Facebook unterstützt, weitere Kanäle folgen in Zukunft.
 
-[Dokumentation](/index.md) \| [Demo](https://demo.pdir.de/social-feed.html)
+[Dokumentation](social-feed/index.md) \| [Demo](https://demo.pdir.de/social-feed.html)
 
