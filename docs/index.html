@@ -58,6 +58,12 @@
       padding: 5px 15px;
       background: #f1f1f1;
     }
+
+    .sidebar-nav ul ul li strong {
+      padding-left: 20px;
+      font-size: 14px;
+      color: #505d6b;
+    }
   </style>
 </head>
 <body>
@@ -96,6 +102,11 @@
         // tabComments: false,
         // tabHeadings: false
       },
+      pagination: {
+        previousText: 'Zurück',
+        nextText: 'Weiter',
+        crossChapter: true
+      },
     }
   </script>
   <script src="//cdn.jsdelivr.net/npm/docsify@4"></script>
@@ -103,6 +114,7 @@
   <script src="//cdn.jsdelivr.net/npm/docsify-tabs@1"></script>
   <script src="//cdn.jsdelivr.net/npm/docsify@4/lib/plugins/search.js"></script>
   <script src="//cdn.jsdelivr.net/npm/class-change@1"></script>
+  <script src="//unpkg.com/docsify-pagination/dist/docsify-pagination.min.js"></script>
 
   <!-- Matomo -->
   <script type="text/javascript">

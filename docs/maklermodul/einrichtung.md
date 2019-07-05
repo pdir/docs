@@ -19,7 +19,7 @@ Wählen Sie **Neues Modul** aus und legen ein Modul für die Listenansicht an:
 
 ![](../_images/maklermodul/einrichtung/contao4_modul_listenansicht_anlegen.png)
 
-Wie Sie Felder und Filter in der Listenansicht anzeigen können, finden Sie auf der Seite [Dargestellte Felder und Filter](/konfiguration.md). Weitere Einstellungsmöglichkeiten finden Sie auf der Seite [Konfiguration der Listenansicht](/sortiermoglichkeiten.md).
+Wie Sie Felder und Filter in der Listenansicht anzeigen können, finden Sie auf der Seite [Dargestellte Felder und Filter](/maklermodul/konfiguration.md). Weitere Einstellungsmöglichkeiten finden Sie auf der Seite [Konfiguration der Listenansicht](/maklermodul/sortiermoglichkeiten.md).
 
 #### Modul für die Detailansicht \(Exposé\) anlegen
 
@@ -32,7 +32,7 @@ Wählen Sie **Neues Modul** aus und legen ein Modul für die Detailansicht an:
 
 **Optional:**
 
-* Sie können eine **Google Maps Karte** darstellen. Genaueres erfahren Sie auf der Seite [Google Maps integrieren](/google_maps_integrieren.md).
+* Sie können eine **Google Maps Karte** darstellen. Genaueres erfahren Sie auf der Seite [Google Maps integrieren](/maklermodul/google_maps_integrieren.md).
 * Sie können ein eigenes **Platzhalterbild** setzen, falls beim Immobilienobjekt kein Bild hinterlegt ist. Wird kein Platzhalterbild ausgewählt und das Immobilienobjekt besitzt kein Bild, wird ein moduleigenes Platzhalterbild dargestellt.
 
 ![](../_images/maklermodul/einrichtung/contao4_modul_detailansicht_anlegen.png)

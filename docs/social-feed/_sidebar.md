@@ -5,7 +5,7 @@
 - [Sharepoint Contao Modul](sharepoint/index.md)
 - [Social Feed](social-feed/index.md)
   - [Installation](social-feed/installation.md)
-  - [Facebook](social-feed/einrichtung-facebook-stream.md)
+  - <strong>Facebook</strong>
     - [Einrichtung](social-feed/einrichtung-facebook-stream.md)
     - [Access Token](social-feed/generierung-des-facebook-access-tokens.md)
     

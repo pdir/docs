@@ -1,28 +1,28 @@
 
 - [AMPHTML](amphtml/index.md)
 - [Maklermodul](maklermodul/index.md)
-  - [Installation und Einrichtung](maklermodul/installation_&_einrichtung.md)
+  - <strong>Installation und Einrichtung</strong>
     - [Installation](maklermodul/installation_&_einrichtung.md)
     - [Einrichtung](maklermodul/einrichtung.md)
     - [Import](maklermodul/import.md)
-  - [Allgemeine Konfiguration](maklermodul/bezeichnungen_&_ubersetzungen.md)
+  - <strong>Allgemeine Konfiguration</strong>
     - [Bezeichnungen & Übersetzungen](maklermodul/bezeichnungen_&_ubersetzungen.md)
     - [Zusätzliche Felder](maklermodul/zusatzliche_felder.md)
     - [Seo, Sitemap & Co.](maklermodul/seo,_sitemap_&_co.md)
     - [Codeschnipsel für kleinere Templateanpassungen](maklermodul/codeschnipsel_fur_kleinere_templateanpassungen.md)
-  - [Listenansicht](maklermodul/konfiguration.md)
+  - <strong>Listenansicht</strong>
     - [Dargestellte Felder und Filter](maklermodul/konfiguration.md)
     - [Konfiguration der Listenansicht](maklermodul/sortiermoglichkeiten.md)
     - [Typen der Objekteigenschaften](maklermodul/typen_der_objekteigenschaften.md)
-  - [Detailansicht](maklermodul/google_maps_integrieren.md)
+  - <strong>Detailansicht</strong>
     - [Google Maps integrieren](maklermodul/google_maps_integrieren.md)
     - [Formular für Objektanfrag einbinden](maklermodul/formular_fur_objektanfrage_einbinden.md)
     - [Formular mit OpenImmo Feedback XML](maklermodul/formular-mit-openimmo-feedback-xml.md)
     - [Kopfbild mit Überschrift](maklermodul/kopfbild_mit_uberschrift.md)
     - [Darstellung von Bildern](maklermodul/darstellung-von-bildern.md)
-  - [Andere Erweiterungen](maklermodul/swglossar.md)
+  - <strong>Andere Erweiterungen</strong>
     - [SWGlossar](maklermodul/swglossar.md)
-  - [Hinweise](maklermodul/anpassung_der_darstellung.md)
+  - <strong>Hinweise</strong>
     - [Anpassung der Darstellung](maklermodul/anpassung_der_darstellung.md)
     - [Welche Feldschlüssel gibt es?](maklermodul/welche_feldschlussel_gibt_es.md)
 - [mobile.de Inserate](mobilede/index.md)
