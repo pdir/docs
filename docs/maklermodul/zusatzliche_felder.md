@@ -4,18 +4,40 @@ Natürlich steht für die Nutzung von Benutzerdefinierten Felder auch eine Mögl
 
 Legen Sie dafür einfach im Ordner `files/maklermodul` eine Datei mit dem Namen `data.mapping.php` an.
 
-Einfaches Mapping "**<etagenzahl>45</etagenzahl> => anzahl_etagen:45**"
+Nachfolgend sehen Sie einen beispielhaften Ausschnitt aus der XML sowie Beispiele, die in die data.mapping.php eingefügt werden können, um das Mapping zu verdeutlichen.
+
+**Ausschnitt aus der XML:**
 
 ```
-$userMapping['verwaltung_techn/user_defined_anyfield/etagenzahl'] = 'anzahl_etagen';
+<objektkategorie>
+    <nutzungsart WOHNEN="false" GEWERBE="true"/>
+    <vermarktungsart KAUF="false" MIETE_PACHT="true"/>
+    <objektart>
+        <buero_praxen buero_typ="PRAXISFLAECHE"/>
+    </objektart>
+</objektkategorie>
 ```
 
-Ein Beispiel für Benutzerdefinierte Felder von Immobilienscout:
+**Beispiel: Alle Büro/Praxen auf Gewerbeimmobilien mappen**
+
+Fügen Sie folgendes in die data.mapping.php ein, um alle Büro/Praxen, egal welchen Büro-Typ sie haben, auf Gewerbeimmobilien zu mappen.
 
 ```
-<?php
-$userMapping["verwaltung_techn/user_defined_anyfield/scout_zustand"] = 'zustand';
-$userMapping["verwaltung_techn/user_defined_anyfield/scout_objektart"] = 'objektart'; 
-$userMapping["verwaltung_techn/user_defined_anyfield/befeuerungsart"] = 'befeuerung';
-$userMapping["verwaltung_techn/user_defined_anyfield/parkplatz_stellplatz"] = 'stellplatzart';
+$userMapping["objektkategorie/objektart/buero_praxen/@buero_typ"] = array('objektkategorie.objektart', 'Gewerbeimmobilien');
+```
+
+**Beispiel: Wert aus Büro-Typ übernehmen**
+
+Wenn der Wert aus buero_typ (im Beispiel PRAXISFLAECHE) übergeben werden soll, fügen Sie in die data.mapping.php folgendes ein.
+
+```
+$userMapping["objektkategorie/objektart/buero_praxen/@buero_typ"] = 'objektkategorie.objektart.buero_praxen';
+```
+
+**Beispiel: Bestimmten Büro-Typ auf einen benutzerdefinierten Wert mappen**
+
+Wenn statt PRAXISFLAECHE der deutsche Begriff Praxisfläche übergeben werden soll, fügen Sie folgendes in die data.mapping.php ein.
+
+```
+$userMapping["objektkategorie/objektart/buero_praxen[@buero_typ='PRAXISFLAECHE']"] = array('objektkategorie.objektart.buero_praxen','Praxisfläche');
 ```
