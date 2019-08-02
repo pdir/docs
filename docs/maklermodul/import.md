@@ -46,7 +46,7 @@ Anbei die beiden Möglichkeiten für die Einrichtung des Crons:
 
 ### Poor-Man-Cron
 
-Bitte folgende Datei unter **app/Resources/contao/config/config.php** anlegen wenn nicht vorhanden und folgenden Inhalt einfügen:
+Bitte folgende Datei unter **app/Resources/contao/config/config.php** anlegen wenn nicht vorhanden und folgenden Inhalt einfügen. Anschließend müssen Sie den Cache im Contao Manager neu aufbauen.
 
 ```
 <?php
@@ -61,6 +61,8 @@ Bitte folgende Datei unter **app/Resources/contao/config/config.php** anlegen we
 $GLOBALS['TL_CRON']['hourly'][] = array('Pdir\MaklermodulSyncBundle\Module\Sync', 'estateImport');
 $GLOBALS['TL_CRON']['hourly'][] = array('Pdir\MaklermodulSyncBundle\Module\Sync', 'estateIndex');
 ```
+
+Info: Diese Cronjobs werden wirklich nur ausgeführt, wenn die Webseite auch besucht wird.
 
 **Mögliche Optionen für die Häufigkeit der Ausführung:**
 
