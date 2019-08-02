@@ -6,6 +6,8 @@ Legen Sie dafür einfach im Ordner `files/maklermodul` eine Datei mit dem Namen 
 
 Nachfolgend sehen Sie einen beispielhaften Ausschnitt aus der XML sowie Beispiele, die in die data.mapping.php eingefügt werden können, um das Mapping zu verdeutlichen.
 
+**Em Ende der Datei muss immer ein `return $userMapping;` erfolgen!**
+
 **Ausschnitt aus der XML:**
 
 ```
@@ -24,6 +26,8 @@ Fügen Sie folgendes in die data.mapping.php ein, um alle Büro/Praxen, egal wel
 
 ```
 $userMapping["objektkategorie/objektart/buero_praxen/@buero_typ"] = array('objektkategorie.objektart', 'Gewerbeimmobilien');
+
+return $userMapping;
 ```
 
 **Beispiel: Wert aus Büro-Typ übernehmen**
@@ -32,6 +36,8 @@ Wenn der Wert aus buero_typ (im Beispiel PRAXISFLAECHE) übergeben werden soll, 
 
 ```
 $userMapping["objektkategorie/objektart/buero_praxen/@buero_typ"] = 'objektkategorie.objektart.buero_praxen';
+
+return $userMapping;
 ```
 
 **Beispiel: Bestimmten Büro-Typ auf einen benutzerdefinierten Wert mappen**
@@ -40,4 +46,6 @@ Wenn statt PRAXISFLAECHE der deutsche Begriff Praxisfläche übergeben werden so
 
 ```
 $userMapping["objektkategorie/objektart/buero_praxen[@buero_typ='PRAXISFLAECHE']"] = array('objektkategorie.objektart.buero_praxen','Praxisfläche');
+
+return $userMapping;
 ```
