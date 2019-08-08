@@ -80,6 +80,10 @@ $GLOBALS\['TL\_CRON'\]\['minutely'\]
 
 [https://example.org/\_contao/cron](https://example.org/_contao/cron)
 
+Bitte beachten Sie, dass in den **Einstellungen** unter **Frontend-Einstellungen** die Checkbox **Den Command-Scheduler deaktivieren** nicht aktiviert sein darf, um den Poor-Man-Cronjob zu aktivieren.
+
+![](../_images/maklermodul/import/cronjob_aktivieren_einstellungen.png)
+
 ### Echter Cronjob auf dem Server
 
 **22 Minuten nach jeder vollen Stunde \(für hourly-Jobs\)**
