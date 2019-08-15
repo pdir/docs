@@ -36,6 +36,8 @@ Ab der Version **2.3.0** des mobile.de Bundle gibt es die Möglichkeit das Filte
 
 Um das Filterformular auf einer extra Seite anzeigen zu lassen, platzieren Sie ein Element vom Typ **Mobile.de Listenansicht** und wählen bei Listenansicht die **Seite zur Listenansicht** aus und aktivieren die Option **Nur Filter**.
 
+In den drei Feldern, wie bei der Detailansicht beschrieben, muss zum Testen der Demo **demo** eingetragen sein.
+
 ![](../_images/mobilede/mobilede_nur_filter_einstellungen.png)
 
 Am Ende müsste es so aussehen:
