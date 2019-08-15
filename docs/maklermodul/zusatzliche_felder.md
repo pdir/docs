@@ -6,7 +6,7 @@ Legen Sie dafür einfach im Ordner `files/maklermodul` eine Datei mit dem Namen 
 
 Nachfolgend sehen Sie einen beispielhaften Ausschnitt aus der XML sowie Beispiele, die in die data.mapping.php eingefügt werden können, um das Mapping zu verdeutlichen.
 
-**Em Ende der Datei muss immer ein `return $userMapping;` erfolgen!**
+Em Ende der Datei muss immer ein `return $userMapping;` erfolgen! Die Änderungen werden erst nach erneutem Import der Immobilienobjekte übernommen!
 
 **Ausschnitt aus der XML:**
 
@@ -49,3 +49,25 @@ $userMapping["objektkategorie/objektart/buero_praxen[@buero_typ='PRAXISFLAECHE']
 
 return $userMapping;
 ```
+
+**Beispiel um Objektart mit allen Objekttypen zu mappen:**
+
+```
+$userMapping["objektkategorie/objektart/zimmer"] = array('objektkategorie.objektart', 'Zimmer');
+$userMapping["objektkategorie/objektart/wohnung"] = array('objektkategorie.objektart', 'Wohnung');
+$userMapping["objektkategorie/objektart/haus"] = array('objektkategorie.objektart', 'Haus');
+$userMapping["objektkategorie/objektart/grundstueck"] = array('objektkategorie.objektart', 'Grundstück');
+$userMapping["objektkategorie/objektart/buero_praxen"] = array('objektkategorie.objektart', 'Gewerbeimmobilien');
+$userMapping["objektkategorie/objektart/einzelhandel"] = array('objektkategorie.objektart', 'Gewerbeimmobilien');
+$userMapping["objektkategorie/objektart/gastgewerbe"] = array('objektkategorie.objektart', 'Gastgewerbe');
+$userMapping["objektkategorie/objektart/hallen_lager_prod"] = array('objektkategorie.objektart', 'Gewerbeimmobilien');
+$userMapping["objektkategorie/objektart/land_und_forstwirtschaft"] = array('objektkategorie.objektart', 'Land- & Forstwirtschaft');
+$userMapping["objektkategorie/objektart/parken"] = array('objektkategorie.objektart', 'Parken');
+$userMapping["objektkategorie/objektart/sonstige"] = array('objektkategorie.objektart', 'Sonstige');
+$userMapping["objektkategorie/objektart/freizeitimmobilie_gewerblich"] = array('objektkategorie.objektart', 'Freizeitimmobilie, Gewerblich');
+$userMapping["objektkategorie/objektart/zinshaus_renditeobjekt"] = array('objektkategorie.objektart', 'Zinshaus, Renditeobjekt');
+
+return $userMapping;
+```
+
+Wenn Sie die vorhanden Objekte erneut importieren steht dann ein Filter **objektkategorie.objektart** zur Verfügung.
