@@ -14,7 +14,7 @@ Bei **Sortierung** wählen Sie aus ob sie aufsteigend oder absteigend sortieren 
 
 ![](../_images/maklermodul/listenansicht/contao4_bedingung.png)
 
-Das Feld **Bedingungen** dient zur Reduzierung der Ergebnisse nach bestimmten Kriterien. Wollen Sie z. B. alle Zweizimmerwohnungen aus dem Ort Meißen anzeigen, fügen Sie die zwei Zeilen aus dem Bild ein. Fügen Sie nur eine Bedingung pro Zeile ein.
+Das Feld **Bedingungen** dient zur Reduzierung der Ergebnisse nach bestimmten Kriterien. Wollen Sie z. B. alle Zweizimmerwohnungen aus dem Ort Meißen anzeigen, fügen Sie die zwei Zeilen aus dem Bild ein. Fügen Sie nur eine Bedingung pro Zeile ein und fügen Sie am Ende einer Zeile KEIN Komma ein. Achten Sie auch auf Groß- und Kleinschreibung!
 
 **Weitere Beispiele:**
 
@@ -28,6 +28,12 @@ Objektadresse freigegeben
 
 ```
 objektadresse_freigegeben=true
+```
+
+Objekttitel enthält "ruhig gelegen" (erst im Maklermodul Bundle >= 2.2.0 und Maklermodul Sync Bundle >= 2.2.0 verfügbar)
+
+```
+freitexte.objekttitel=%ruhig gelegen%
 ```
 
 ### Bildeinstellungen
