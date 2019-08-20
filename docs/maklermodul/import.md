@@ -29,8 +29,8 @@ Wenn Sie das files-Verzeichnis geändert haben oder die importierte Datei nach d
 Die Datei könnte wie folgendermaßen aussehen. Mit der Anweisung `keep-source` können Sie einstellen, ob Sie die zu importierende Datei nach dem Import erhalten möchten oder nicht.
 
 ```
-import-source="../../../files/maklermodul/upload"
-import-target="../../../files/maklermodul/data"
+import-source="files/maklermodul/upload"
+import-target="files/maklermodul/data"
 keep-source="true"
 ```
 
