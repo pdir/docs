@@ -31,7 +31,7 @@ Die Datei könnte wie folgendermaßen aussehen. Mit der Anweisung `keep-source` 
 ```
 import-source="files/maklermodul/upload"
 import-target="files/maklermodul/data"
-keep-source="true"
+keep-source=true
 ```
 
 ## Import starten
