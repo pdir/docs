@@ -16,7 +16,9 @@ Es gibt **4 verschiedene Farbschemen** mit aufeinander abgestimmten Farbtönen: 
 **Dokumentation:** https://docs.contao-themes.net/#/mate_theme/maklermodul  
 **Kostenlos installieren oder Lizenz bestellen:** https://contao-themes.net/theme-detail/mate.html  
 
-<img src="https://docs.contao-themes.net/_images/mate-theme/module/matetheme_maklermodul_liste_selects.png" style="width:150px;display:inline-block;vertical-align:top;"> <img src="https://docs.contao-themes.net/_images/mate-theme/module/matetheme_maklermodul_liste_buttons.png" style="width:150px;display:inline-block;vertical-align:top;"> <img src="https://docs.contao-themes.net/_images/mate-theme/module/matetheme_maklermodul_details.png" style="width:150px;display:inline-block;vertical-align:top;">
+<img src="https://docs.contao-themes.net/_images/mate-theme/module/matetheme_maklermodul_liste_selects.png" style="width:150px;display:inline-block;vertical-align:top;"> <img src="https://docs.contao-themes.net/_images/mate-theme/module/matetheme_maklermodul_liste_buttons.png" style="width:150px;display:inline-block;vertical-align:top;"> <img src="https://docs.contao-themes.net/_images/mate-theme/module/matetheme_maklermodul_details.png" style="width:150px;display:inline-block;vertical-align:top;">  
+
+<img src="https://docs.contao-themes.net/_images/mate-theme/module/matetheme_maklermodul_liste_selects_dark.png" style="width:150px;display:inline-block;vertical-align:top;"> <img src="https://docs.contao-themes.net/_images/mate-theme/module/matetheme_maklermodul_liste_buttons_dark.png" style="width:150px;display:inline-block;vertical-align:top;"> <img src="https://docs.contao-themes.net/_images/mate-theme/module/matetheme_maklermodul_details_dark.png" style="width:150px;display:inline-block;vertical-align:top;">
 
 ## ODD Theme
 
