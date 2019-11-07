@@ -18,8 +18,6 @@ Es gibt **4 verschiedene Farbschemen** mit aufeinander abgestimmten Farbtönen: 
 
 <img src="https://docs.contao-themes.net/_images/mate-theme/module/matetheme_maklermodul_liste_selects.png" style="width:150px;display:inline-block;vertical-align:top;"> <img src="https://docs.contao-themes.net/_images/mate-theme/module/matetheme_maklermodul_liste_buttons.png" style="width:150px;display:inline-block;vertical-align:top;"> <img src="https://docs.contao-themes.net/_images/mate-theme/module/matetheme_maklermodul_details.png" style="width:150px;display:inline-block;vertical-align:top;">  
 
-<img src="https://docs.contao-themes.net/_images/mate-theme/module/matetheme_maklermodul_liste_selects_dark.png" style="width:150px;display:inline-block;vertical-align:top;"> <img src="https://docs.contao-themes.net/_images/mate-theme/module/matetheme_maklermodul_liste_buttons_dark.png" style="width:150px;display:inline-block;vertical-align:top;"> <img src="https://docs.contao-themes.net/_images/mate-theme/module/matetheme_maklermodul_details_dark.png" style="width:150px;display:inline-block;vertical-align:top;">
-
 ## ODD Theme
 
 ODD ist ein Contao Theme, welches für kreative Webseiten auf Basis von Contao 4.x entwickelt wurde.
