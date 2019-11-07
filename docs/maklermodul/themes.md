@@ -12,9 +12,9 @@ Das MATE Theme ist kostenlos (mit Copyright Hinweis) oder auch kostenpflichtig (
 
 Es gibt **4 verschiedene Farbschemen** mit aufeinander abgestimmten Farbtönen: Grün, Blau, Dunkel und Gelb.
 
-Demo: https://mate.pdir.de/immobilien.html  
-Dokumentation: https://docs.contao-themes.net/#/mate_theme/maklermodul  
-Kostenlos installieren oder Lizenz bestellen: https://contao-themes.net/theme-detail/mate.html  
+**Demo:** https://mate.pdir.de/immobilien.html  
+**Dokumentation:** https://docs.contao-themes.net/#/mate_theme/maklermodul  
+**Kostenlos installieren oder Lizenz bestellen:** https://contao-themes.net/theme-detail/mate.html  
 
 <img src="https://docs.contao-themes.net/_images/mate-theme/module/matetheme_maklermodul_liste_selects.png" style="width:150px;display:inline-block;vertical-align:top;"> <img src="https://docs.contao-themes.net/_images/mate-theme/module/matetheme_maklermodul_liste_buttons.png" style="width:150px;display:inline-block;vertical-align:top;"> <img src="https://docs.contao-themes.net/_images/mate-theme/module/matetheme_maklermodul_details.png" style="width:150px;display:inline-block;vertical-align:top;">
 
@@ -30,8 +30,8 @@ ZU „SCHRÄG“? Die schrägen ODD Elemente können Sie auf Wunsch auch gerade 
 
 Es gibt **3 verschiedene Farbschemen** mit aufeinander abgestimmten Farbtönen: Grün, Grau und Blau.
 
-Demo: https://odd.contao-themes.net/immobilien.html  
-Dokumentation: https://docs.contao-themes.net/#/odd_theme/odd-maklermodul  
-Kostenlos installieren oder Lizenz bestellen: https://contao-themes.net/theme-detail/odd.html  
+**Demo:** https://odd.contao-themes.net/immobilien.html  
+**Dokumentation:** https://docs.contao-themes.net/#/odd_theme/odd-maklermodul  
+**Kostenlos installieren oder Lizenz bestellen:** https://contao-themes.net/theme-detail/odd.html  
 
 <img src="https://docs.contao-themes.net/_images/odd-theme/module/oddtheme_maklermodul_liste_selects.png" style="width:150px;display:inline-block;vertical-align:top;"> <img src="https://docs.contao-themes.net/_images/odd-theme/module/oddtheme_maklermodul_liste_buttons.png" style="width:150px;display:inline-block;vertical-align:top;"> <img src="https://docs.contao-themes.net/_images/odd-theme/module/oddtheme_maklermodul_details.png" style="width:150px;display:inline-block;vertical-align:top;">
