@@ -4,7 +4,7 @@ Diese Themes liefern bereits Layoutvorlagen (CSS und Templates) für das Maklerm
 
 ## MATE Theme
 
-Demo: In Arbeit  
+Demo: https://mate.pdir.de/immobilien.html  
 Dokumentation: https://docs.contao-themes.net/#/mate_theme/maklermodul  
 Kostenlos installieren oder Lizenz bestellen: https://contao-themes.net/theme-detail/mate.html  
 
