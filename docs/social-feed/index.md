@@ -16,9 +16,17 @@ Eine Anleitung zur Installation des Social Feed Bundles finden Sie [hier](/socia
 
 Eine Anleitung zur Einrichtung des Facebook-Streams finden Sie [hier](/social-feed/einrichtung-facebook-stream.md).
 
+### Einrichtung Instagram-Stream
+
+Eine Anleitung zur Einrichtung des Instagram-Streams finden Sie [hier](/social-feed/einrichtung-instagram-stream.md).
+
 ### Generierung Facebook Access Token
 
 Eine Anleitung zur Generierung des Facebook Access Token finden Sie [hier](/social-feed/generierung-des-facebook-access-tokens.md).
+
+### Weitere Einrichtung
+
+Hinweise zur weiteren Einrichtung finden Sie [hier](/social-feed/einrichtung.md).
 
 ### Demo
 
