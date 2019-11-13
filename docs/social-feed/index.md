@@ -22,5 +22,5 @@ Eine Anleitung zur Generierung des Facebook Access Token finden Sie [hier](/soci
 
 ### Demo
 
-Eine Demo der Social Feed Erweiterung können Sie unter folgendem Link ansehen: [https://demo.pdir.de/social-feed.html](https://demo.pdir.de/social-feed.html).
+Eine Demo der Social Feed Erweiterung können Sie unter folgendem Link ansehen: [https://demo.pdir.de/social-feed](https://demo.pdir.de/social-feed.html).
 
