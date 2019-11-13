@@ -12,9 +12,9 @@ Um einen Account anzulegen, wählen Sie die Schaltfläche **Neuen Social-Feed Ac
 
 **Maximale Anzahl an Posts:** Hier können Sie die Anzahl der zu importierenden Posts bestimmen.
 
-**News-Archiv:** Wählen Sie hier das News-Archiv aus, in welches die Facebook-Posts importiert werden sollen.
+**News-Archiv:** Wählen Sie hier das News-Archiv aus, in welches die Instagram-Posts importiert werden sollen.
 
-**Ausführung des Cronjobs:** Wählen Sie hier aus, wie oft der Cronjob aufgerufen werden soll, um neue Facebook-Posts zu importieren. Sie haben folgende Einstellmöglichkeiten: kein Cronjob, minütlich, stündlich, täglich, wöchentlich und monatlich.
+**Ausführung des Cronjobs:** Wählen Sie hier aus, wie oft der Cronjob aufgerufen werden soll, um neue Instagram-Posts zu importieren. Sie haben folgende Einstellmöglichkeiten: kein Cronjob, minütlich, stündlich, täglich, wöchentlich und monatlich.
 
 **Letzter Import:** Die zwei Textfelder für den letzten Import dienen nur zur Information, wann der letzte Import stattfand.
 
