@@ -1,13 +1,5 @@
 # Einrichtung des Facebook-Streams
 
-Nach der Installation des Moduls werden Sie im linken Menü unter **PDIR APPS** den neuen Menüpunkt **Social Feed Accounts** sehen.
-
-![](../_images/social-feed/neuer_menupunkt_socialfeed.png)
-
-Auf dieser Seite können Sie neue Accounts anlegen und deren Einstellungen bearbeiten.
-
-![](../_images/social-feed/accountliste_socialfeed.png)
-
 ## Facebook-App anlegen
 
 Wenn Sie noch keine eigene Facebook App haben, müssen Sie diese erst anlegen. Ohne App können Sie keinen Social Feed Stream auf Ihrer Webseite anzeigen. Wie Sie eine App registrieren und konfigurieren, können Sie auf folgender Seite nachlesen: [https://developers.facebook.com/docs/apps/register?locale=de\_DE](https://developers.facebook.com/docs/apps/register?locale=de_DE).
@@ -22,7 +14,7 @@ Bevor Sie einen Account anlegen, sollten Sie ein News-Archiv anlegen, in das die
 
 ## Account anlegen
 
-Um einen Account anzulegen, wählen Sie die Schaltfläche **Neuen Social-Feed Account anlegen** aus. Anschließend öffnet sich eine Seite mit dem Formular, wo Sie alle notwendigen Daten zum Account hinterlegen müssen. Nachdem Sie gespeichert haben, kann es sein, dass es 2-3 Minuten dauert bis alle Beiträge importiert wurden.
+Um einen Account anzulegen, wählen Sie die Schaltfläche **Neuen Social-Feed Account anlegen** und beim Typ **Facebook** aus. Anschließend öffnet sich eine Seite mit dem Formular, wo Sie alle notwendigen Daten zum Account hinterlegen müssen. Nachdem Sie gespeichert haben, kann es sein, dass es 2-3 Minuten dauert bis alle Beiträge importiert wurden.
 
 **Facebook-Account:** Geben Sie hier den Namen des Facebook-Accounts ein. Den Namen sehen Sie immer in der URL, wenn Sie Ihre Facebook-Seite aufrufen \(z. B. [facebook.com/account-name/](https://www.facebook.com/**meissen.online**/%29%29%29\).
 
@@ -42,33 +34,4 @@ _\(Die eingebenen Daten im Screenshot sind lediglich Beispieldaten\)_![](../_ima
 
 ## Modul anlegen
 
-Wenn Sie Ihre Accounts angelegt haben, legen Sie nun das dazugehörige Modul an. Dazu navigieren Sie zu **Themes &gt; Die Frontend-Module des Theme ID x bearbeiten **\(Zahnrad-Icon\) und legen ein neues Modul an.
-
-Als Modultyp wählen Sie unter Nachrichten die **Nachrichtenliste** aus. Wählen Sie die entsprechenden **Nachrichtenarchive** aus, die Sie in Ihrem Social Feed Stream darstellen möchten. Über das Feld **Gesamtzahl der Beiträge** können Sie noch die Anzahl der Beiträge begrenzen. Möchten Sie eine Pagination darstellen, füllen Sie das Feld **Elemente pro Seite** aus.
-
-Beim Nachrichtentemplate müssen Sie das Template **news\_social\_feed** auswählen. Beim individuellen Template wählen Sie **mod\_newslist\_social\_feed** aus. Unter Bildeinstellungen bei **Bildgröße** können Sie die Größe der Bilder anpassen.
-
-![](../_images/social-feed/template_auswahl_socialfeed.png)
-
-Unter dem Punkt Social Feed Einstellungen können Sie die **maximale Textlänge**, die **Anzahl der Spalten** einstellen sowie **Masonry** aktivieren/deaktivieren und **Bilder anzeigen/ausblenden**.
-
-![](../_images/social-feed/socialfeed_einstellungen.png)
-
-## Modul platzieren
-
-Nachdem Sie das Modul angelegt haben, platzieren Sie das Modul an einer beliebigen Stelle.
-
-## Template-Anpassungen
-
-Wenn Sie Contao 4.4 oder 4.5 nutzen, ist das Beitragsbild noch nicht standardmäßig verlinkt. Wenn Sie das Bild verlinken möchten, müssten Sie das Template **news\_social\_feed.html5** wie folgt anpassen.
-
-```php
-<a href="<?= $this->url ?>" target="_blank">
-    <?php if ($this->addImage && $this->sfImages): ?>
-        <?php $this->insert('image', $this->arrData); ?>
-    <?php endif; ?>
-</a>
-```
-
-
-
+Auf der Seite [Einrichtung](/social-feed/einrichtung.md) finden Sie alle weiteren Hinweise zum Anlegen und Platzieren des Moduls.
