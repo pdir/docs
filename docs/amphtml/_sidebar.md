@@ -3,6 +3,7 @@
   - [Installation](amphtml/installation.md)
   - [Einrichtung](amphtml/einrichtung.md)
   - [Probleme melden](amphtml/probleme_melden.md)
+- [Animated Timeline](animated-timeline/index.md)
 - [Maklermodul](maklermodul/index.md)
 - [mobile.de Inserate](mobilede/index.md)
 - [Sharepoint Contao Modul](sharepoint/index.md)

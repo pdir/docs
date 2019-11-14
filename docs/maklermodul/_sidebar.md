@@ -1,5 +1,6 @@
 
 - [AMPHTML](amphtml/index.md)
+- [Animated Timeline](animated-timeline/index.md)
 - [Maklermodul](maklermodul/index.md)
   - <strong>Installation und Einrichtung</strong>
     - [Installation](maklermodul/installation_&_einrichtung.md)

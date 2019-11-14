@@ -1,13 +1,13 @@
 
 - [AMPHTML](amphtml/index.md)
 - [Animated Timeline](animated-timeline/index.md)
+  - [Installation](animated-timeline/installation.md)
+  - [Einrichtung](animated-timeline/einrichtung.md)
 - [Maklermodul](maklermodul/index.md)
 - [mobile.de Inserate](mobilede/index.md)
 - [Sharepoint Contao Modul](sharepoint/index.md)
-  - [Installation](sharepoint/installation.md)
-  - [Einrichtung](sharepoint/einrichtung.md)
 - [Social Feed](social-feed/index.md)
-
+    
 ---
 
 - Interessantes
