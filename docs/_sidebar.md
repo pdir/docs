@@ -5,7 +5,7 @@
 - [mobile.de Inserate](mobilede/index.md)
 - [Sharepoint Contao Modul](sharepoint/index.md)
 - [Social Feed](social-feed/index.md)
-      
+- [Kundendokumentation](kundendoku/index.md)
 
 ---
 

@@ -1,6 +1,6 @@
 # Dokumentation
 
-![](../_images/mobilede/mobilemodul_logo_267x45px.png)
+![](../_images/mobilede/mobilemodul_logo_267x45px.png#noborder)
 
 ## Mobile.de Inserate für Contao
 

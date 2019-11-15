@@ -1,6 +1,6 @@
 # Dokumentation
 
-<img src="../_images/amphtml/amphtml_logo.svg" width="150">
+![](../_images/amphtml/amphtml_logo.svg#noborder ':size=150')
 
 ## AMPHTML für Contao
 

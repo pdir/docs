@@ -1,5 +1,7 @@
 # Dokumentation
 
+![](../_images/animated-timeline/animated-timeline-logo.svg#noborder ':size=150')
+
 ## Animated Timeline Bundle für Contao 4
 
 Das Animated Timeline Bundle ist eine **jQuery**-Erweiterung auf Basis von [jQuery Roadmap](https://github.com/stefanomarra/jquery-roadmap), mit der man Inhalte in einem dynamischen Zeitstrahl mit fadeIn-Animation darstellen kann. 

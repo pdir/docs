@@ -1,6 +1,6 @@
 # Dokumentation
 
-<img src="_images/social-feed/social_feed_logo.svg" width="150">
+![](../_images/social-feed/social_feed_logo.svg#noborder ':size=150')
 
 ## Social Feed für Contao 4
 

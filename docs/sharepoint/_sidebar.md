@@ -7,6 +7,7 @@
   - [Installation](sharepoint/installation.md)
   - [Einrichtung](sharepoint/einrichtung.md)
 - [Social Feed](social-feed/index.md)
+- [Kundendokumentation](kundendoku/index.md)
 
 ---
 

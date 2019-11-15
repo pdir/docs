@@ -1,6 +1,6 @@
 # Dokumentation
 
-![](../_images/maklermodul/maklermodul_logo-230px.png)
+![](../_images/maklermodul/maklermodul_logo-230px.png#noborder)
 
 ## Makler Modul für Contao
 
