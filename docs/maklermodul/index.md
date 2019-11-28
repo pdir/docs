@@ -48,3 +48,6 @@ FlowFact Performer / direct hAPPy®, ImmonetManager \(immonet.de\), Makler2000 \
 
 Das Maklermodul ist für **Contao 3.x** sowie auch in **Contao 4.4 und größer** verfügbar.
 
+### Contao Themes mit Layoutvorlagen für das Maklermodul
+
+Einige Themes liefern bereits [Layoutvorlagen](maklermodul/themes) (CSS und Templates) für das Maklermodul mit.

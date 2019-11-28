@@ -23,9 +23,8 @@
     - [Darstellung von Bildern](maklermodul/darstellung-von-bildern.md)
   - <strong>Andere Erweiterungen</strong>
     - [SWGlossar](maklermodul/swglossar.md)
-    - [Maklermodul](maklermodul/themes.md)
-  - <strong>Hinweise</strong>
     - [Contao Themes mit Layoutvorlagen für das Maklermodul](maklermodul/themes.md)
+  - <strong>Hinweise</strong>
     - [Welche Feldschlüssel gibt es?](maklermodul/welche_feldschlussel_gibt_es.md)
 - [mobile.de Inserate](mobilede/index.md)
 - [Sharepoint Contao Modul](sharepoint/index.md)
