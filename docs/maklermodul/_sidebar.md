@@ -17,7 +17,7 @@
     - [Typen der Objekteigenschaften](maklermodul/typen_der_objekteigenschaften.md)
   - <strong>Detailansicht</strong>
     - [Google Maps integrieren](maklermodul/google_maps_integrieren.md)
-    - [Formular für Objektanfrag einbinden](maklermodul/formular_fur_objektanfrage_einbinden.md)
+    - [Formular für Objektanfrage einbinden](maklermodul/formular_fur_objektanfrage_einbinden.md)
     - [Formular mit OpenImmo Feedback XML](maklermodul/formular-mit-openimmo-feedback-xml.md)
     - [Kopfbild mit Überschrift](maklermodul/kopfbild_mit_uberschrift.md)
     - [Darstellung von Bildern](maklermodul/darstellung-von-bildern.md)
