@@ -26,7 +26,7 @@ Mit `range()` können Sie eine Startposition \(beginnend bei 0\) und die Länge 
 
 ```
 <?php foreach ($this->estate->attachments()->startAt(0) as $attachment) : ?>
-    <?php $attachment->group("BILD,GRUNDRISS")->size(600,350)->render() ?>
+    <?php $attachment->group("BILD,GRUNDRISS,AUSSENANSICHTEN,INNENANSICHTEN,PANORAMA")->size(600,350)->render() ?>
 <?php endforeach; ?>
 ```
 
