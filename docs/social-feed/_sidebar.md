@@ -11,6 +11,9 @@
     - [Access Token](social-feed/generierung-des-facebook-access-tokens.md)
   - <strong>Instagram</strong>
     - [Einrichtung des Feed](social-feed/einrichtung-instagram-stream.md)
+  - <strong>Twitter</strong>
+    - [Einrichtung Developer-Account/App](social-feed/einrichtung-twitter-app.md)
+    - [Einrichtung des Feed](social-feed/einrichtung-twitter-stream.md)
   - [Weitere Einrichtung](social-feed/einrichtung.md)
 - [Kundendokumentation](kundendoku/index.md)
     

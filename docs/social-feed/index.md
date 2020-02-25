@@ -12,17 +12,31 @@ Auf [contao-themes.net](https://contao-themes.net/sponsoring.html?isorc=3) könn
 
 Eine Anleitung zur Installation des Social Feed Bundles finden Sie [hier](/social-feed/installation.md).
 
-### Einrichtung Facebook-Stream
+### Facebook
+
+#### Einrichtung Facebook-Stream
 
 Eine Anleitung zur Einrichtung des Facebook-Streams finden Sie [hier](/social-feed/einrichtung-facebook-stream.md).
 
-### Einrichtung Instagram-Stream
+#### Generierung Facebook Access Token
+
+Eine Anleitung zur Generierung des Facebook Access Token finden Sie [hier](/social-feed/generierung-des-facebook-access-tokens.md).
+
+### Instagram
+
+#### Einrichtung Instagram-Stream
 
 Eine Anleitung zur Einrichtung des Instagram-Streams finden Sie [hier](/social-feed/einrichtung-instagram-stream.md).
 
-### Generierung Facebook Access Token
+### Twitter
 
-Eine Anleitung zur Generierung des Facebook Access Token finden Sie [hier](/social-feed/generierung-des-facebook-access-tokens.md).
+#### Einrichtung Twitter-Stream
+
+Eine Anleitung zur Einrichtung des Twitter-Streams finden Sie [hier](/social-feed/einrichtung-twitter-stream.md).
+
+#### Einrichtung Developer-Account/Twitter-App
+
+Eine Anleitung zur Einrichtung des Developer Account und der App finden Sie [hier](/social-feed/einrichtung-twitter-app.md).
 
 ### Weitere Einrichtung
 
