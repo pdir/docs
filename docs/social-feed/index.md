@@ -8,6 +8,12 @@ Die Social Feed Erweiterung zeigt einen Feed aus den beliebtesten sozialen Netzw
 
 Auf [contao-themes.net](https://contao-themes.net/sponsoring.html?isorc=3) können Sie die Weiterentwicklung unserer Themes und Erweiterungen durch das Kaufen von speziellen Paketen oder das Spenden von Entwicklungsstunden unterstützen.
 
+### Demo
+
+Demo: [https://demo.pdir.de/social-feed](https://demo.pdir.de/social-feed)  
+Demo mit Twitter-Posts und verlinkten Hashtags/Mentions: 
+[https://demo.pdir.de/social-feed-extended-template](https://demo.pdir.de/social-feed-extended-template)
+
 ### Installation
 
 Eine Anleitung zur Installation des Social Feed Bundles finden Sie [hier](/social-feed/installation.md).
@@ -41,8 +47,4 @@ Eine Anleitung zur Einrichtung des Developer Account und der App finden Sie [hie
 ### Weitere Einrichtung
 
 Hinweise zur weiteren Einrichtung finden Sie [hier](/social-feed/einrichtung.md).
-
-### Demo
-
-Eine Demo der Social Feed Erweiterung können Sie unter folgendem Link ansehen: [https://demo.pdir.de/social-feed](https://demo.pdir.de/social-feed.html).
 
