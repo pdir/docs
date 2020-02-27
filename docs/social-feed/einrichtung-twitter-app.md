@@ -24,8 +24,9 @@ Nun muss beschrieben werden wie die Twitter API genutzt werden soll.
 Füllen Sie das erste Eingabefeld z. B. mit diesem vorgeschriebenen Text aus oder beschreiben Sie es mit Ihren eigenen 
 Worten (in Englisch).
 
-**_The twitter api should used to show posts from a page or hashtag and information about the post creator on the own 
-website. The posts and images will be written directly in to the database and will showed on the website._**
+**_The twitter api will be used to show posts belonging to a page or a hashtag and information about the posts creator 
+on the own website. The posts and images will be written directly into the website database and will be showed on the 
+website._**
 
 Bei **"Do you plan to display Tweets or aggregate data about Twitter content outside of Twitter?"** könnten Sie den 
 folgenden Text eintragen.
@@ -42,8 +43,9 @@ Alle anderen Eingabefelder sind nicht relevant, diese können Sie deaktivieren.
 
 ### Schritt 5
 
-Akzeptieren Sie das **Developer Agreement** und klicken Sie auf **Submit Application**. Um die Registrierung des 
-Developer Account abzuschließen, klicken Sie in der E-Mail, die Sie bekommen haben sollten, auf den Bestätigungslink.
+Akzeptieren Sie das **Developer Agreement** und klicken Sie auf **Submit Application**. Anschließend sollten Sie eine 
+Bestätigungsemail erhalten. Klicken Sie in dieser auf den Bestätigungslink, um die Registrierung des Developer Accounts 
+abzuschließen.
 
 ## App anlegen
 
