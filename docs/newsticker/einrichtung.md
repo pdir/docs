@@ -1,5 +1,7 @@
 # Einrichtung
 
+jQuery muss im Seitenlayout aktiviert sein!
+
 ## Umschlags-Elemente anlegen
 
 Im ersten Schritt legen Sie jeweils ein Element vom Typ **Newsticker Umschlag (Anfang)** und 
