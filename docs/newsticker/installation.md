@@ -12,7 +12,6 @@ ganz links.
 3. Das Paket mit dem Namen **Newsticker** hinzufügen.
 4. Im Menü auf **Pakete** klicken und im Fußbereich auf **Änderungen anwenden** klicken.
 5. Danach rufen Sie das **Install-Tool** auf und aktualisieren die Datenbank. 
-Im Install-Tool müssen sie noch einen Admin-Benutzeraccount erstellen.
 
 ## Installation mit Contao Manager 1.1.x:
 1. Contao Manager aufrufen: [www.ihre-domain.de/contao-manager.phar.php](/www.ihre-domain.de/contao-manager.phar.php)
@@ -20,4 +19,3 @@ Im Install-Tool müssen sie noch einen Admin-Benutzeraccount erstellen.
 3. Das Paket mit dem Namen **Newsticker** hinzufügen.
 4. Im Fußbereich auf **Änderungen prüfen** und anschließend **Änderungen anwenden** klicken.
 5. Danach rufen Sie das **Install-Tool** auf und aktualisieren die Datenbank. 
-Im Install-Tool müssen sie noch einen Admin-Benutzeraccount erstellen.
