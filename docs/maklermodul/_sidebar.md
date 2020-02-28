@@ -27,6 +27,7 @@
   - <strong>Hinweise</strong>
     - [Welche Feldschlüssel gibt es?](maklermodul/welche_feldschlussel_gibt_es.md)
 - [mobile.de Inserate](mobilede/index.md)
+- [Newsticker](newsticker/index.md)
 - [Sharepoint Contao Modul](sharepoint/index.md)
 - [Social Feed](social-feed/index.md)
 - [Kundendokumentation](kundendoku/index.md)

@@ -7,6 +7,7 @@
   - [Einrichtung](mobilede/einrichtung.md)
   - [Module anlegen](mobilede/module_anlegen.md)
   - [Probleme melden](mobilede/probleme_melden.md)
+- [Newsticker](newsticker/index.md)
 - [Sharepoint Contao Modul](sharepoint/index.md)
 - [Social Feed](social-feed/index.md)
 - [Kundendokumentation](kundendoku/index.md)

@@ -5,6 +5,7 @@
   - [Probleme melden](amphtml/probleme_melden.md)
 - [Animated Timeline](animated-timeline/index.md)
 - [Maklermodul](maklermodul/index.md)
+- [Newsticker](newsticker/index.md)
 - [mobile.de Inserate](mobilede/index.md)
 - [Sharepoint Contao Modul](sharepoint/index.md)
 - [Social Feed](social-feed/index.md)

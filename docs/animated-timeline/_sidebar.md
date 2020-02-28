@@ -5,6 +5,7 @@
   - [Einrichtung](animated-timeline/einrichtung.md)
 - [Maklermodul](maklermodul/index.md)
 - [mobile.de Inserate](mobilede/index.md)
+- [Newsticker](newsticker/index.md)
 - [Sharepoint Contao Modul](sharepoint/index.md)
 - [Social Feed](social-feed/index.md)
 - [Kundendokumentation](kundendoku/index.md)

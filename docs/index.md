@@ -40,6 +40,17 @@ Präsentieren Sie Ihre Fahrzeuge auf der eigenen Webseite.
 
 ---
 
+### Newsticker
+
+![Newsticker Bundle für Contao 4](_images/newsticker/pdir_icon_newsticker.svg#noborder ':size=75')
+
+Das Newsticker Bundle ist eine jQuery Erweiterung für Contao 4 auf der Basis von 
+[jQuery Easy Ticker](https://github.com/vaakash/jquery-easy-ticker).
+
+[Dokumentation](newsticker/index.md) \| [Demo](https://demo.pdir.de/newsticker)
+
+---
+
 ### Sharepoint Modul
 
 Importieren Sie Dateien von ihrem Sharepoint-Server in Ihre Contao-Webseite und stellen Sie sie in einer DataTables-Tabelle dar.
