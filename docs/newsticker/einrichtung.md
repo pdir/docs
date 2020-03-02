@@ -33,8 +33,8 @@ verlinken.
 
 Im Backend sollte die Struktur der Elemente etwa so aussehen:
 
-![](../_images/newsticker/newsticker_elemente_backend.png)
+![](../_images/newsticker/newsticker_elemente_im_backend.png)
 
-## Beispiel
+## Beispiele
 
-![](../_images/newsticker/newsticker_beispiel.png)
+![](../_images/newsticker/newsticker_beispiele.png)
