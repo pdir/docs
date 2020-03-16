@@ -93,4 +93,7 @@ $userMapping['verwaltung_techn/objektnr_extern'] = ['sortierung', ['search' => '
 return $userMapping;
 ```
 
+Vorher: 21 (1/16)  
+Nachher: 21116
+
 Wenn Sie die vorhanden Objekte erneut importieren steht dann ein Filter **sortierung** zur Verfügung.
