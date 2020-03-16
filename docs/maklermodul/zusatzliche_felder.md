@@ -25,6 +25,8 @@ Em Ende der Datei muss immer ein `return $userMapping;` erfolgen! Die Änderunge
 Fügen Sie folgendes in die data.mapping.php ein, um alle Büro/Praxen, egal welchen Büro-Typ sie haben, auf Gewerbeimmobilien zu mappen.
 
 ```
+<?php
+
 $userMapping["objektkategorie/objektart/buero_praxen/@buero_typ"] = array('objektkategorie.objektart', 'Gewerbeimmobilien');
 
 return $userMapping;
@@ -35,6 +37,8 @@ return $userMapping;
 Wenn der Wert aus buero_typ (im Beispiel PRAXISFLAECHE) übergeben werden soll, fügen Sie in die data.mapping.php folgendes ein.
 
 ```
+<?php
+
 $userMapping["objektkategorie/objektart/buero_praxen/@buero_typ"] = 'objektkategorie.objektart.buero_praxen';
 
 return $userMapping;
@@ -45,6 +49,8 @@ return $userMapping;
 Wenn statt PRAXISFLAECHE der deutsche Begriff Praxisfläche übergeben werden soll, fügen Sie folgendes in die data.mapping.php ein.
 
 ```
+<?php
+
 $userMapping["objektkategorie/objektart/buero_praxen[@buero_typ='PRAXISFLAECHE']"] = array('objektkategorie.objektart.buero_praxen','Praxisfläche');
 
 return $userMapping;
@@ -53,6 +59,8 @@ return $userMapping;
 **Beispiel um Objektart mit allen Objekttypen zu mappen:**
 
 ```
+<?php
+
 $userMapping["objektkategorie/objektart/zimmer"] = array('objektkategorie.objektart', 'Zimmer');
 $userMapping["objektkategorie/objektart/wohnung"] = array('objektkategorie.objektart', 'Wohnung');
 $userMapping["objektkategorie/objektart/haus"] = array('objektkategorie.objektart', 'Haus');
@@ -71,3 +79,18 @@ return $userMapping;
 ```
 
 Wenn Sie die vorhanden Objekte erneut importieren steht dann ein Filter **objektkategorie.objektart** zur Verfügung.
+
+**Suchen & Ersetzen**
+
+Ab der Version 2.5.0 des Maklermodul Sync Bundle ist es möglich Buchstaben und Zeichen zu ersetzen. Fügen Sie z. B. 
+folgendes in die data.mapping.php ein, um in der Objektnummer Klammern, Schrägstriche und Leerzeichen zu entfernen.
+
+```
+<?php
+
+$userMapping['verwaltung_techn/objektnr_extern'] = ['sortierung', ['search' => '(,), ,/', 'replace' => ',,,']];
+
+return $userMapping;
+```
+
+Wenn Sie die vorhanden Objekte erneut importieren steht dann ein Filter **sortierung** zur Verfügung.
