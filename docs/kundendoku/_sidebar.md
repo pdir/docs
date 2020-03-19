@@ -8,6 +8,10 @@
 - [Social Feed](social-feed/index.md)
 - [Kundendokumentation](kundendoku/index.md)
   - [Google reCAPTCHA konfigurieren](kundendoku/google-recaptcha.md)
+  - [meissen.online](kundendoku/meissen.online/index.md)
+    - [Händlerkonto verwalten](kundendoku/meissen.online/haendlerkonto-verwalten.md)
+    - [Artikel verwalten](kundendoku/meissen.online/artikel-verwalten.md)
+    - [Bestellungen verwalten](kundendoku/meissen.online/bestellungen-verwalten.md)
       
 
 ---
