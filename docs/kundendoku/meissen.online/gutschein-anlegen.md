@@ -33,6 +33,8 @@ danach sortiert.
 * **Artikelbilder:** Fügen Sie neue Bilder hinzu, indem Sie auf Datei auswählen klicken. Ein Bild muss immer als 
 Standard-Bild definiert werden. Weitere Bilder können Sie dann über den blauen Plus-Button hinzufügen.
 
+![](../../_images/kundendoku/meissen.online/gutscheinprodukt.png)
+
 Nachdem der Gutschein angelegt wurde, erscheint dieser auf Ihrer Händlerseite und unter dem Menüpunkt 
 [Produkte](https://meissen.online/alle-produkte.html) und kann nun online von Ihren Kunden bestellt werden. Als 
 Zahlungsart ist derzeit nur Vorkasse möglich, der Kunde erhält Ihre Kontodaten in seiner Bestellbestätigungsmail. In 
@@ -43,5 +45,3 @@ Nach Zahlung können Sie Ihren Gutschein dann individuell auf einem Versandweg I
 E-Mail oder später durch Abholung). Bei jeder neuen Bestellung bekommen Sie als Händler ebenfalls eine 
 Bestellbestätigungsmail und können alle Ihre Bestellungen im Händler-Dashboard unter 
 [Bestellungen](kundendoku/meissen.online/bestellungen-verwalten.md) einsehen.
-
-![](../../_images/kundendoku/meissen.online/gutscheinprodukt.png)
