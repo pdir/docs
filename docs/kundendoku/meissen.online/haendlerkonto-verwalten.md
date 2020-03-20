@@ -37,11 +37,13 @@ der rechten Seite auf das **User-Icon** klicken und **Händler-Login** auswähle
 Klicken Sie in der linken Navigationsleiste auf **Händler Profil** und anschließend auf den Button **Bearbeiten** 
 (oben rechts).
 
+Hinweis: Den Speichern-Button finden Sie oben rechts.
+
 ### Profilbilder
 
-Unter Profilbilder können Sie ein **Händlerlogo**, **Profilbild** sowie **Geschäftsfoto/Innenraumbild** festlegen. 
-Das Profilbild wird in der Händlerübersicht und auf der Händlerdetailseite dargestellt. Das Händlerlogo und das 
-Geschäftsfoto wird nur auf der Händlerdetailseite angezeigt.
+Unter Profilbilder sollten Sie jeweils ein **Händlerlogo**, **Profilbild** sowie **Geschäftsfoto/Innenraumbild** 
+festlegen. Das Profilbild wird in der Händlerübersicht und auf der Händlerdetailseite dargestellt. Das Händlerlogo und 
+das Geschäftsfoto wird nur auf der Händlerdetailseite angezeigt.
 
 ![](../../_images/kundendoku/meissen.online/haendlerinfos_bearbeiten_profilbilder.png)
 
@@ -98,3 +100,13 @@ anzugeben, da die Keywörter von den meisten Suchmaschinen (inkl. Google) nicht 
 So könnte ein Händlerprofil bei meissen.online am Ende aussehen:
 
 ![](../../_images/kundendoku/meissen.online/haendler-beispiel.png)
+
+## Zahlungsinformationen hinterlegen
+
+Zur Zeit ist nur Vorkasse als Zahlungsart möglich. Ihre Zahlungsinformationen können Sie hinterlegen, indem Sie in der 
+linken Navigationsleiste auf **Einstellungen** und **Transaction Settings** klicken.
+
+Unter Banküberweisung können Sie Ihre Kontodaten hinterlegen (Bank Branch Number = BIC). Der Kunde erhält die 
+Zahlungsinformationen mit der Bestätigungsmail.
+
+![](../../_images/kundendoku/meissen.online/zahlungsinfos.png)
