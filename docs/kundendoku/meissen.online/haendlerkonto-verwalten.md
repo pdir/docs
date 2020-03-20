@@ -3,6 +3,7 @@
 - [Ein Händlerkonto anlegen](kundendoku/meissen.online/haendlerkonto-verwalten.md?id=ein-händlerkonto-anlegen)
 - [Im Händler-Dashboard anmelden](kundendoku/meissen.online/haendlerkonto-verwalten.md?id=im-händler-dashboard-anmelden)
 - [Händlerinformationen bearbeiten](kundendoku/meissen.online/haendlerkonto-verwalten.md?id=händlerinformationen-bearbeiten)
+- [Zahlungsinformationen hinterlegen](kundendoku/meissen.online/haendlerkonto-verwalten.md?id=zahlungsinformationen-hinterlegen)
 
 ## Ein Händlerkonto anlegen
 
