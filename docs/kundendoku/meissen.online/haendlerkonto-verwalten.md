@@ -52,7 +52,10 @@ das Geschäftsfoto wird nur auf der Händlerdetailseite angezeigt.
 
 Unter Profilangaben können Sie Adress- und Kontaktdaten und Links zur Webseite oder sozialen Netzwerken angeben.
 
-Bei den Links zum Facebook- und Twitter-Profil tragen Sie nur den Teil nach facebook.com/ bzw. twitter.com/ ein.
+Die Links zur Webseite und zum Shop müssen immer mit **http://** oder **https://** beginnen, ansonsten funktioniert die 
+Verlinkung nicht richtig.
+
+Bei den Links zum Facebook- und Twitter-Profil tragen Sie nur den Teil **hinter** facebook.com/ bzw. twitter.com/ ein.
 
 Für die Kartendarstellung ist es notwendig die **Latitude** und **Longitude** anzugeben. Diese Angaben können Sie z. B. über 
 folgende Webseite herausfinden, indem Sie dort ihre Adresse eingeben: [latlong.net](https://www.latlong.net/).
