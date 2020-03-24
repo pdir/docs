@@ -9,47 +9,36 @@ Um Beiträge der eigenen Facebook-Seite anzuzeigen, müssen Sie im Contao Backen
 ##### 2. Access Token generieren
 
 * Rufen Sie nun den Graph API Explorer über folgende URL auf: [https://developers.facebook.com/tools/explorer/](https://developers.facebook.com/tools/explorer/).
+* Wählen Sie Ihre angelegte **App** aus.
+* Klicken Sie im Auswahlfeld darunter auf **Zugriffsschlüssel des Nutzers anfordern** (Nutzer-Token).
+* Als Berechtigungen müssen **manage_pages** und **pages_show_list** ausgewählt werden.
+* Klicken Sie auf Generate Access Token und stimmen Sie allen Berechtigungsanfragen zu.
 
-* Wählen Sie im oberen rechten Auswahlfeld Ihre angelegte App aus.
-
-* Klicken Sie im Auswahlfeld darunter auf "Zugriffsschlüssel des Nutzers anfordern".
-  
-  <img src="../_images/social-feed/fb_access_token_generieren.jpg" style="width:100%;max-width:100%;">
-
-* Es öffnet sich nun ein Fenster, wo Sie die Berechtigungen setzen können. Wählen Sie "manage\_pages" aus und klicken Sie auf "Zugriffsschlüssel anfordern". Stimmen Sie nun den folgenden Berechtigungs-Anfragen zu.
-
-  ![](../_images/social-feed/fb_access_token_berechtigungen.jpg)
-
-* Kopieren Sie nun den Zugriffsschlüssel aus dem langen Eingabefeld, direkt neben dem Feld "Zugriffsschlüssel anfordern".
-
-  ![](../_images/social-feed/fb_access_token_temp.jpg)
+![](../_images/social-feed/fb_access_token_generieren.png)
 
 ##### 3. Access Token verlängern
 
 * Rufen Sie nun den Access Token Debugger über folgende URL auf: [https://developers.facebook.com/tools/debug/accesstoken](https://developers.facebook.com/tools/debug/accesstoken)
-
-* Fügen Sie den gerade kopierten Zugriffsschlüssel in das Eingabefeld für den Zugriffsschlüssel ein und klicken Sie auf Fehlerbehebung.
-
-* Klicken Sie im unteren Bereich der Webseite auf den Button "Zugriffsschlüssel verlängern" und kopieren Sie den generierten Zugriffsschlüssel.
+* Fügen Sie den gerade kopierten Zugriffsschlüssel in das Eingabefeld für den Zugriffsschlüssel ein und klicken Sie auf **Fehlerbehebung**.
+* Klicken Sie im unteren Bereich der Webseite auf den Button **Zugriffsschlüssel verlängern** und kopieren Sie den generierten Zugriffsschlüssel.
 
 ##### 4. Zugriffsschlüssel auslesen, der nie abläuft
 
 * Rufen Sie nun wieder den Graph API Explorer auf: [https://developers.facebook.com/tools/explorer/](https://developers.facebook.com/tools/explorer/).
+* Wählen Sie beim Auswahlfeld **App** Ihre angelegte App aus.
+* Fügen Sie den kopierten **Zugriffsschlüssel** in das entsprechende Eingabefeld ein.
+* Fügen Sie folgendes in das obere Eingabefeld (neben dem Senden-Button) ein: PAGEID?fields=access\_token \(PAGEID ersetzen Sie durch den Namen Ihrer Facebook Seite, wie er in der URL steht. Beispiel: [facebook.com/seiten-name/](/facebook.com/account-name/). PAGEID müssten Sie in diesem Fall durch seiten-name ersetzen.\)
+* Wenn Sie jetzt auf **Senden** klicken, müsste eine Ausgabe mit dem Access Token erscheinen. Diesen Access Token, der nie mehr abläuft, müssen Sie im Contao Backend bei Ihrem Social Feed Account eintragen.
 
-* Wählen Sie beim Auswahlfeld App Ihre angelegte App aus.
-
-* In das Eingabefeld den generierten Zugriffsschlüssel einfügen und darunter fügen Sie folgendes ein: PAGEID?fields=access\_token \(PAGEID ersetzen Sie durch den Namen Ihrer Facebook Seite, wie er in der URL steht. Beispiel: [facebook.com/seiten-name/](/facebook.com/account-name/). PAGEID müssten Sie in diesem Fall durch seiten-name ersetzen.\)
-
-* Wenn Sie jetzt auf Senden klicken, müsste eine Ausgabe mit dem Access Token erscheinen. Diesen Access Token, der nie mehr abläuft, müssen Sie im Contao Backend bei Ihrem Social Feed Account eintragen.
-
-  ![](../_images/social-feed/fb_access_token_never_expired.jpg)
+![](../_images/social-feed/fb_access_token_ohne_ablaufdatum.png)
 
 **5. Access Token testen \(optional\)**
 
 * Wenn Sie testen wollen, ob der Access Token nie mehr abläuft, rufen Sie wieder den Access Token Debugger auf: [https://developers.facebook.com/tools/debug/accesstoken](https://developers.facebook.com/tools/debug/accesstoken)
 * Wenn Sie den Access Token in dem Eingabefeld einfügen und auf Fehlerbehebung klicken, sollte bei Ablaufdatum niemals stehen.
+* Hinweis: Wichtig ist nur, dass bei Ablaufdatum Niemals steht.
 
-  ![](../_images/social-feed/fb_access_token_testen.jpg)
+  ![](../_images/social-feed/fb_access_token_testen.png)
 
 
 
