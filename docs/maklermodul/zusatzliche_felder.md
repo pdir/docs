@@ -97,3 +97,15 @@ Vorher: 21 (1/16)
 Nachher: 21116
 
 Wenn Sie die vorhanden Objekte erneut importieren steht dann ein Filter **sortierung** zur Verfügung.
+
+Wenn das originale Feld nicht mit importiert werden soll, kann die Anweisung `'excludeOriginal' => true` hinzufügt 
+werden, z. B. wie im folgenden Beispiel:
+
+```
+<?php
+
+$userMapping['verwaltung_techn/objektnr_extern'] = ['sortierung', ['search' => '(,), ,/', 'replace' => ',,,', 'excludeOriginal' => true]];
+
+return $userMapping;
+```
+
