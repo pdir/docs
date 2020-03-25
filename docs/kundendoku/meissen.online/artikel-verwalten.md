@@ -24,7 +24,8 @@ Suchmaschinen wie Google dient (maximal 320 Zeichen).
 * **Anzahl verfügbarer Produkt:** Geben Sie hier die Anzahl der aktuell verfügbaren Artikel an, bei jeder Bestellung wird 
 die Lagermenge aktualisiert.
 * **Steuerklasse:** Wählen Sie die entsprechende Steuerklasse aus.
-* **Preis (inkl. MwSt.):** Geben Sie den Artikelpreis an (mit Komma oder Punkt getrennt und ohne Währungszeichen).
+* **Preis (inkl. MwSt.):** Geben Sie den Artikelpreis an (mit Komma oder Punkt getrennt und ohne Währungszeichen). 
+Wenn Sie 0.001 in das Feld eintragen, erscheint als Ausgabe "Auf Anfrage".
 * **Sonderpreis:** Wenn Sie dieses Feld ausfüllen, wird dieser Preis, statt dem regulären Preis, angezeigt.
 * **Status:** Wählen Sie Aktivieren aus, wenn der Artikel auf der Webseite angezeigt werden soll.
 * **Abendbestellung möglich:** Eine Abendbestellung ist derzeit noch nicht möglich, daher können Sie dieses Feld ignorieren.
