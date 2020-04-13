@@ -2,4 +2,4 @@
 
 Dieses Handbuch umfasst alle Dokumentationen unserer Contao-Erweiterungen.
 
-[Zur Dokumentation](https://docs.pdir.de)
+[Zur Dokumentation](https://pdir.de/docs/)
